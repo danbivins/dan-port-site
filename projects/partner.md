@@ -2,7 +2,7 @@
 title: Incarcerated Community Partnership
 metaDescription: Projects of Dan Bivins
 date: 2023-01-01T00:00:00.000Z
-permalink: /projects/index.html
+permalink: /projects/partner.html
 # eleventyNavigation:
 #   key: About
 #   order: 1
