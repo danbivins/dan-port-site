@@ -1,9 +1,0 @@
----
-layout: layouts/home.njk
-title: Accessibility
-date: 2023-01-01T00:00:00.000Z
-permalink: /accessibility/index.html
-# eleventyNavigation:
-#   key: Home
-#   order: 0
----
