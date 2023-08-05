@@ -10,4 +10,4 @@ permalink: /projects/index.html
 
 - Medicare.gov &mdash; [Reviving the Medicare Plan Finder tool](/projects/mgov/)</li> 
 - [Incarcerated Community Partnership](/projects/partner/) &mdash; Providing a path forward for the former incarcerated
-- [Jenzabar Design System](/projects/jenzabar/)
+<!-- - [Jenzabar Design System](/projects/jenzabar/) -->
