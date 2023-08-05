@@ -1,5 +1,5 @@
 ---
-title: About us
+# title: About us
 metaDescription: About Dan Bivins
 date: 2017-01-01T00:00:00.000Z
 permalink: /about/index.html
