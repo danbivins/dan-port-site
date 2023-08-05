@@ -12,8 +12,6 @@ Learn more about how I approach [this site's accessibility](/accessibility)
 
 I design, write a little bit of front-end code, and spend time helping designers and developers create more inclusive digital products. For a decade I have worked across various industries but currently work with [Ad Hoc](https://adhocteam.us/) as a UX Designer and Accessibility Specialist, building digital services that help the federal government better serve people.
 
-Feel free to [email me directly](mailto:dbivins☛REMOVE-THIS☚@protonmail.com?subject=Accessibility issue) to set up a time to chat.
-
 ## Speaking
 Occasionally I give talks on accessibility.
 - The most recent was for AIGA Los Angeles on ["Being a Web A11y"](https://losangeles.aiga.org/event/being-a-web-a11y/).
