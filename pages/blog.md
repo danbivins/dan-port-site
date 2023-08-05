@@ -4,9 +4,9 @@ title: Writing Highlights
 metaDescription: 
 date: 2020-01-01
 permalink: /blog/index.html
-eleventyNavigation:
-  key: Blog
-  order: 2
+# eleventyNavigation:
+#   key: Blog
+#   order: 2
 ---
 Sometimes I write:
 

@@ -18,9 +18,11 @@ Occasionally I give talks on accessibility.
 - I presented at [Ad Hoc Accessibility Camp 2020](https://adhoc.team/2020/04/20/accessibility-camp-2020/).
 
 ## Writing
-- I was fortunate enough to be apart of an amazing team that wrote: <a href="https://adhoc.team/playbook-accessibility/">The Ad Hoc Accessibility Beyond Compliance Playbook</a>
+- [True Access](/posts/true-access/)
+- [An Intro to Designing for Accessibility](https://www.sitepen.com/blog/an-intro-to-designing-for-accessibility)
+- I was fortunate enough to be apart of an amazing team that wrote: [The Ad Hoc Accessibility Beyond Compliance Playbook](https://adhoc.team/playbook-accessibility/)
 - As a co-author, [The right benchmarks](https://adhoc.team/2021/11/30/right-benchmarks/)
-- [An intro into designing for accessibility](https://www.sitepen.com/blog/an-intro-to-designing-for-accessibility)
+- As a co-author, [Become an accessibility champion by using simple mockup annotations](https://adhoc.team/2023/06/28/become-an-accessibility-champion-by-using-simple-mockup-annotations/)
 
 ## Non-work
 Outside of working, I have become an avid trail runner and also have been involved in a couple very different musical projects for several years.
