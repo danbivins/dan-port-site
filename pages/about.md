@@ -7,27 +7,32 @@ eleventyNavigation:
   key: About
   order: 1
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+<h1>About</h1>
+    <p>Learn more about how I approach <a href="/accessibility">this site's accessibility</a>.</p>
+    <p>I design, write a little bit of front-end code, and spend time helping designers and developers create more inclusive digital products. I have worked across various industries but currently work with <a href="https://adhocteam.us/">Ad Hoc</a> as a UX Designer and Accessibility Specialist, building digital services that help the federal government better serve people.</p> 
 
-Add a few line breaks in here to test:-
-Capitalize  
-on  
-low  
-hanging  
-fruit  
+    <p>Feel free to <a href="mailto:dbivins☛REMOVE-THIS☚@protonmail.com?subject=Accessibility issue">email me directly</a> to set up a time to chat. </p>
 
-## Our services
+    <h2>Speaking</h2>
+    <p>Occasionally I give talks on accessibility.</p>
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+    <ul role="list">
+        <li>The most recent was for AIGA Los Angeles on <a href="https://losangeles.aiga.org/event/being-a-web-a11y/">"Being a Web A11y"</a>.</li>
+        <li>I presented at <a href="https://adhoc.team/2020/04/20/accessibility-camp-2020/">Ad Hoc Accessibility Camp 2020</a></li>
+    </ul>
 
-### Blue-sky thinking
+    <h2>Writing</h2>
+    <ul role="list">
+        <li>
+            I was fortunate enough to be apart of an amazing team that wrote: <a href="https://adhoc.team/playbook-accessibility/">The Ad Hoc Accessibility Beyond Compliance Playbook</a>
+        </li>
+        <li>
+            As a co-author, <a href="https://adhoc.team/2021/11/30/right-benchmarks/">The right benchmarks</a> 
+        </li>
+        <li>
+            <a href="https://www.sitepen.com/blog/an-intro-to-designing-for-accessibility">An intro into designing for accessibility</a>
+        </li>
+    </ul>
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
-
-#### Management frameworks
-
-Podcasting operational change management inside of workflows to establish a framework. Taking seamless key performance indicators offline to maximise the long tail. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
-
-##### Regulatory convergence
-
-Collaboratively administrate empowered markets via plug-and-play networks. Dynamically procrastinate B2C users after installed base benefits. Dramatically visualize customer directed convergence without revolutionary ROI. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+    <h2>Non-work</h2>
+    <p>Outside of working, I have become an avid trail runner and also have been involved in a couple very different musical projects for several years.</p>
