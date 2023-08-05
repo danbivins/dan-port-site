@@ -2,7 +2,7 @@
 layout: layouts/blog.njk
 title: Writing Highlights
 metaDescription: 
-date: 2017-01-01
+date: 2020-01-01
 permalink: /blog/index.html
 eleventyNavigation:
   key: Blog
@@ -11,7 +11,6 @@ eleventyNavigation:
 Sometimes I write:
 
 - [True Access](/posts/true-access/)
-- [Set it Down](/posts/set-it-down/)
 - [An Intro to Designing for Accessibility](https://www.sitepen.com/blog/an-intro-to-designing-for-accessibility)
 - [The Ad Hoc Accessibility Beyond Compliance Playbook](https://adhoc.team/playbook-accessibility/)
 - [The right benchmarks](https://adhoc.team/2021/11/30/right-benchmarks/)
