@@ -1,7 +1,6 @@
 [build]
   publish = "_site"
   command = "eleventy"
-  build = build
 
 # REDIRECT and HEADERS examples
 
