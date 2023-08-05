@@ -7,7 +7,7 @@ permalink: /projects/index.html
 #   key: About
 #   order: 1
 ---
-A few
-- Medicare.gov &mdash; [Reviving the Medicare Plan Finder tool](/projects/mgov/)</li> 
-- [Incarcerated Community Partnership](/projects/partner/) &mdash; Providing a path forward for the former incarcerated
-- [Jenzabar Design System](/projects/jenzabar/)
+
+- Medicare.gov: [Reviving the Medicare Plan Finder tool](/projects/mgov/)</li> 
+- [Incarcerated Community Partnership](/projects/partner/):  Providing a path forward for the former incarcerated
+<!-- - [Jenzabar Design System](/projects/jenzabar/) -->
