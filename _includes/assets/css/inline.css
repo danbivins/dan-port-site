@@ -37,9 +37,9 @@ a[href]:visited {
 	color: var(--primary);
 }
 
-a[href]:not(:hover) {
+/* a[href]:not(:hover) {
 	text-decoration: none;
-}
+} */
 
 img {
 	max-width: 100%;
