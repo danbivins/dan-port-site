@@ -66,4 +66,4 @@ Most importantly, people found it useful and helpful.
 > “Even I, a 73-year-old guy who’s not very computer savvy can figure it out.”
 > “I really like it because it’s self-explanatory and gives things in detail. You know up front what each plan costs a month, what your deductibles are, and what drugs are covered and what drugs aren’t. That’s really important."
 
-[Next project](/partner)
+[Next project](/projects/partner)
