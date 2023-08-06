@@ -117,6 +117,14 @@ header nav li a[data-current="current item"] {
 	background-color: white;
 }
 
+.logo {
+	text-decoration: none;
+}
+
+.logo:hover {
+	text-decoration: underline;
+}
+
 /* Posts List */
 article {
 	margin-bottom: 1em;
