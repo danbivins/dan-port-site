@@ -114,7 +114,7 @@ header nav li a:hover {
 }
 
 header nav li a[data-current="current item"] {
-	background-color: white;
+	background-color: #f4f4ff;
 }
 
 .logo {
