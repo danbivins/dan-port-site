@@ -40,4 +40,4 @@ Lastly, a significant percentage of people who are incarcerated have challenges 
 ![An early mockup showing program offerings for someone who is incarcerated.](ccmp_programs.png)
 ![A detail view of a program's listing.](/static/img/ccmp_detail.png)
 
-[Next project](/mgov)
+[Next project](/projects/mgov)

@@ -1,7 +1,7 @@
 :root {
 	--primary: blue;
 	--secondary: white;
-	--background: #FFF0EB;
+	--background: white;
 }
 
 *, *:before, *:after {
@@ -20,6 +20,8 @@ body {
 	height: 100vh;
 	grid-template-rows: auto 1fr auto;
 	background-color: var(--background);
+	margin: 5% auto;
+	max-width: 37rem;
 }
 
 main {
