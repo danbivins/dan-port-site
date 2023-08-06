@@ -22,7 +22,7 @@ The process of shopping for and enrolling in a Medicare plan is an intimidating 
 
 Working collaboratively with our government partners at the Centers for Medicare & Medicaid Services (CMS) [Ad Hoc's](https://adhoc.team/) goal was to replace a legacy tool built more than a decade ago with a tool that would make it easier for Medicare beneficiaries, or those who help them, to find and enroll in a Medicare plan that best meets their health and financial needs.
 
-[A screenshot of the legacy tool's Plan Results page](/static/imag/mgov_old_plans.png)
+![A screenshot of the legacy tool's Plan Results page](/static/img/mgov_old_plans.png)
 
 
 Some of the **foundational issues we needed to resolve** in this rebuild were the fact that the legacy tool:
@@ -42,18 +42,21 @@ Using feedback from users and organizations who support them as well as aggregat
 
 Through usability sessions during Open Enrollment, we saw how people actually used Plan Finder and began exploring the highest impact changes we could make to ensure an even smoother Open Enrollment the following year. There were many discussions around balancing the user impact and technical feasibility of the new feature work and feature improvements.
 
-<!-- image here -->
+![A collaborative session with stakeholders.](/static/img/mgov_collab.png)
 
 ### Our core features of focus
+
 - **The drug and pharmacy search experience.** From our user research, it quickly became clear that drug costs are one of the most stressful and most important decision points for a beneficiary. Drug coverage is filled with complexity and constantly evolving due to policy, how a plan and pharmacy covers a drug, what tier that drug is on, and how the drug moves through the Medicare coverage phases.
 - **An anonymous shopping and plan enrollment experience** that provides key pieces of information crucial to the decision making process at the optimal point in the experience and being able to filter and sort plans that best meet a beneficiary's needs.
 - **A personalized, logged in experience** that streamlines the plan selection and enrollment process to reduce time being guided through the process.
 
-<!-- images here -->
+![The redesigned pharmacy search experience.](/static/img/mgov_PharmacySelection.png)
+![Logged in account summary page.](/static/img/mgov_sum.png)
 
 
 ## The Outcome
-<!-- images here -->
+![The redesigned pharmacy search experience.](/static/img/mgov_PharmacySelection.png)
+
 Since CMS launched the redesigned [Medicare Plan Finder](https://www.medicare.gov/plan-compare/#/?year=2022&lang=en), the tool:
 - Has helped more than 2.6 million Medicare beneficiaries enroll in a Medicare plan, about 40% more enrollments than the legacy tool the previous year
 - Saw an average of 373,000 visitors a day during the next Medicare Open Enrollment.

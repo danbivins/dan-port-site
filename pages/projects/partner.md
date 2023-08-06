@@ -22,7 +22,9 @@ Reducing recidivism is a complex and varied problem. Without a community support
 ## The Work
 Our small cross-functional team collaborated with the client and former inmates to better understand the requirements from all angles through hours of discovery and exploration of key relationships between people who would use the tool, mapping of needs and experiences, and identifying data constraints.
 
-<!-- image here -->
+![A rough draft of a user flow to help think through how people who are incarcerated may use the tool.](/static/img/ccmp_roles.png)
+![An early mapping of one level of admin's purpose and action within the tool.](/static/img/ccmp_map.png)
+
 
 ### Our core features of focus
 - **Clear and accessible searches.** People who are incarcerated need the ability to research opportunities and resources in the community. They also need to be able to share the info of these resources with a family member outside of the facility, providing a stronger connection for families allows for increased chances of success.
@@ -35,6 +37,7 @@ Another critical point was the need for the design to be **ccessible, flexible, 
 Lastly, a significant percentage of people who are incarcerated have challenges such as learning disabilities, other cognitive limitations, or have limited use of vision or motor skills. Given this, our app needed to be built in an inclusive manner from the start taking care to provide equal access to to everyone.
 
 ## The Outcome
-<!-- images here -->
+![An early mockup showing program offerings for someone who is incarcerated.](ccmp_programs.png)
+![A detail view of a program's listing.](/static/img/ccmp_detail.png)
 
 [Next project](/mgov)
