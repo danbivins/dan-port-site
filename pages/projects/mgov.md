@@ -22,7 +22,8 @@ The process of shopping for and enrolling in a Medicare plan is an intimidating 
 
 Working collaboratively with our government partners at the Centers for Medicare & Medicaid Services (CMS) [Ad Hoc's](https://adhoc.team/) goal was to replace a legacy tool built more than a decade ago with a tool that would make it easier for Medicare beneficiaries, or those who help them, to find and enroll in a Medicare plan that best meets their health and financial needs.
 
-<!-- add images here -->
+[A screenshot of the legacy tool's Plan Results page](/static/imag/mgov_old_plans.png)
+
 
 Some of the **foundational issues we needed to resolve** in this rebuild were the fact that the legacy tool:
 - was not responsive
