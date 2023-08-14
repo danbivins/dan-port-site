@@ -44,9 +44,7 @@ A screenshot from a Mural board at a collaborative workshop session with stakeho
 
 ### Our core features of focus
 
-- **The drug and pharmacy search experience.** From research, it was clear that drug costs are one of the most stressful and most important decision points for a beneficiary. These types of questions needed to be at the forefront of our work to reduce pain points. "Which plans cover my drugs?" "Do all pharmacy cover my drugs?" The pharmaceutical landscape is filled with complexity and constantly evolving due to policy changes, how a plan and pharmacy covers a drug, what tier that drug is on, and how the drug moves through the Medicare coverage phases.
-
-We presented key drug information when it was needed, providing the answers to those tough questions so users had the right data to make an informed decision.
+- **The drug and pharmacy search experience.** From research, it was clear that drug costs are one of the most stressful and most important decision points for a beneficiary. These types of questions needed to be at the forefront of our work to reduce pain points. "Which plans cover my drugs?" "Do all pharmacy cover my drugs?" The pharmaceutical landscape is filled with complexity and constantly evolving due to policy changes, how a plan and pharmacy covers a drug, what tier that drug is on, and how the drug moves through the Medicare coverage phases. We presented key drug information when it was needed, providing the answers to those tough questions so users had the right data to make an informed decision.
 - **An anonymous shopping and plan enrollment experience** Provide just the right information &mdash; and the right amount of information &mdash; at the righ time within the decision making process.
 - **A personalized, logged in experience** Streamline the plan selection and guide the user through the enrollment process to reduce a user's time to success.
 

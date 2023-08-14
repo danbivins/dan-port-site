@@ -2,6 +2,7 @@
 	--primary: blue;
 	--secondary: white;
 	--background: white;
+	font-size: 1.3rem;
 }
 
 *, *:before, *:after {
@@ -44,7 +45,9 @@ a[href]:hover {
 }
 
 img {
+	border: 4px solid #c4c0c0;
 	max-width: 100%;
+	margin-top: 2rem;
 	height: auto;
 }
 
@@ -78,6 +81,12 @@ pre {
 	hyphens: none;
 	padding: 1em;
 	margin: .5em 0;
+}
+
+blockquote {
+	border-left: 4px solid var(--primary);
+	padding: 2rem;
+	background: #f4f4ff;
 }
 
 /* Header Logo (style as h2) */
@@ -199,8 +208,3 @@ button {
 	cursor: pointer;
 }
 
-@media screen and (min-width:768px) {
-	:root {
-		font-size: 1.3rem;
-	}
-}
