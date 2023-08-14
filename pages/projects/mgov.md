@@ -20,10 +20,10 @@ Nearly 15% of Americans are currently enrolled in Medicare and that number is ex
 
 The process of shopping for and enrolling in a Medicare plan is an intimidating journey due to the importance of the beneficiary's decision which affects their health and drug coverage &mdash; but also due to the incredible amount of data about options and services that flood Medicare beneficiaries every year.
 
-Working collaboratively with our government partners at the Centers for Medicare & Medicaid Services (CMS) [Ad Hoc's](https://adhoc.team/) goal was to replace a legacy tool built more than a decade ago with a tool that would make it easier for Medicare beneficiaries, or those who help them, to find and enroll in a Medicare plan that best meets their health and financial needs.
+Working collaboratively with our government partners at the Centers for Medicare & Medicaid Services (CMS) [Ad Hoc's](https://adhoc.team/) goal was to replace a legacy tool built more than a decade ago with a tool that would make it easier for Medicare beneficiaries, or those who help them, to find and enroll in a health plan that best meets their health and financial needs.
 
 ![A screenshot of the legacy tool's Plan Results page](/static/img/mgov_old_plans.png)
-
+*A screenshot of the legacy tool's Plan Results page*
 
 Some of the **foundational issues we needed to resolve** in this rebuild were:
 - Outdated: was not built to be responsive, with all types and sizes of devices in mind
@@ -40,7 +40,7 @@ Gathering insight from Medicare beneficiaries, customer service reps, and state-
 Also worth noting is the policy and business requirements that exist &mdash; sometimes from a very high level in the federal government. Our cross-functional team had many discussions and workshops with stakeholders around balancing the user improvments, policy needs, and technical feasibility.
 
 ![A screenshot from a Mural board at a collaborative workshop session with stakeholders. High fidelity mockups and sticky notes are prevalent.](/static/img/mgov_collab.png)
-A screenshot from a Mural board at a collaborative workshop session with stakeholders. High fidelity mockups and sticky notes are prevalent.
+*A screenshot from a Mural board at a collaborative workshop session with stakeholders. High fidelity mockups and sticky notes are prevalent.*
 
 ### Our core features of focus
 
@@ -54,6 +54,7 @@ A screenshot from a Mural board at a collaborative workshop session with stakeho
 
 ## The Outcome
 ![The redesigned pharmacy search experience.](/static/img/mgov_PharmacySelection.png)
+*The redesigned pharmacy search experience.*
 
 Since CMS launched the redesigned [Medicare Plan Finder](https://www.medicare.gov/plan-compare/#/?year=2022&lang=en), the tool:
 - Has helped more than 2.6 million Medicare beneficiaries enroll in a Medicare plan, about 40% more enrollments than the legacy tool the previous year
@@ -62,6 +63,8 @@ Since CMS launched the redesigned [Medicare Plan Finder](https://www.medicare.go
 
 Most importantly, people found it useful and helpful.
 > “Even I, a 73-year-old guy who’s not very computer savvy can figure it out.”
+{: title="Blockquote title"}
+
 > “I really like it because it’s self-explanatory and gives things in detail. You know up front what each plan costs a month, what your deductibles are, and what drugs are covered and what drugs aren’t. That’s really important."
 
 [Next project](/projects/partner)
