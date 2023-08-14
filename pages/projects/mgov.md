@@ -25,30 +25,30 @@ Working collaboratively with our government partners at the Centers for Medicare
 ![A screenshot of the legacy tool's Plan Results page](/static/img/mgov_old_plans.png)
 
 
-Some of the **foundational issues we needed to resolve** in this rebuild were the fact that the legacy tool:
-- was not responsive
-- presented an overwhelming amount of information and cognitively overwhelmed the user
-- was not built with performance, security, and reliability as a priority
+Some of the **foundational issues we needed to resolve** in this rebuild were:
+- Outdated: was not built to be responsive, with all types and sizes of devices in mind
+- Poor UX: presented an overwhelming amount of information and cognitively overwhelmed the user and did not set up users for success with the forms they had to fill out 
+- Not performant: was not built with performance, security, and reliability as a priority
 
-At the core of our human-centered design approach, the questions we kept asking were:
-- Who are our users?
-- What are their pain points?
-- How do we prioritize all the features we can build to ensure that we have a strong foundation that we can improve upon in the future?
+At the core of our design approach, the questions we kept asking were:
+- How do we prioritize all the features we can build to ensure that we have a strong foundation that we can improve upon in the future? AKA, what does our MVP release look like followed by iterative improvements?
 - How do we ensure that we are continuously gathering feedback from those who will use the tool so we can improve over time?
-- How do we ensure that the tool is performant, stable, reliable, and most importantly accessible to all regardless of ability?
 
 ## The Work
-Using feedback from users and organizations who support them as well as aggregating policy and business requirements, we layed a foundation for an MVP product that was built with the user in mind.
+Gathering insight from Medicare beneficiaries, customer service reps, and state-sponsored support agencies we were awash with data into how people used signed up for and accessed their Medicare services. Through our usability sessions during Open Enrollment, we saw how people actually used Medicare.gov and began exploring the highest impact changes we could make improve the tool. 
 
-Through usability sessions during Open Enrollment, we saw how people actually used Plan Finder and began exploring the highest impact changes we could make to ensure an even smoother Open Enrollment the following year. There were many discussions around balancing the user impact and technical feasibility of the new feature work and feature improvements.
+Also worth noting is the policy and business requirements that exist &mdash; sometimes from a very high level in the federal government. Our cross-functional team had many discussions and workshops with stakeholders around balancing the user improvments, policy needs, and technical feasibility.
 
-![A collaborative session with stakeholders.](/static/img/mgov_collab.png)
+![A screenshot from a Mural board at a collaborative workshop session with stakeholders. High fidelity mockups and sticky notes are prevalent.](/static/img/mgov_collab.png)
+A screenshot from a Mural board at a collaborative workshop session with stakeholders. High fidelity mockups and sticky notes are prevalent.
 
 ### Our core features of focus
 
-- **The drug and pharmacy search experience.** From our user research, it quickly became clear that drug costs are one of the most stressful and most important decision points for a beneficiary. Drug coverage is filled with complexity and constantly evolving due to policy, how a plan and pharmacy covers a drug, what tier that drug is on, and how the drug moves through the Medicare coverage phases.
-- **An anonymous shopping and plan enrollment experience** that provides key pieces of information crucial to the decision making process at the optimal point in the experience and being able to filter and sort plans that best meet a beneficiary's needs.
-- **A personalized, logged in experience** that streamlines the plan selection and enrollment process to reduce time being guided through the process.
+- **The drug and pharmacy search experience.** From research, it was clear that drug costs are one of the most stressful and most important decision points for a beneficiary. These types of questions needed to be at the forefront of our work to reduce pain points. "Which plans cover my drugs?" "Do all pharmacy cover my drugs?" The pharmaceutical landscape is filled with complexity and constantly evolving due to policy changes, how a plan and pharmacy covers a drug, what tier that drug is on, and how the drug moves through the Medicare coverage phases.
+
+We presented key drug information when it was needed, providing the answers to those tough questions so users had the right data to make an informed decision.
+- **An anonymous shopping and plan enrollment experience** Provide just the right information &mdash; and the right amount of information &mdash; at the righ time within the decision making process.
+- **A personalized, logged in experience** Streamline the plan selection and guide the user through the enrollment process to reduce a user's time to success.
 
 ![The redesigned pharmacy search experience.](/static/img/mgov_PharmacySelection.png)
 ![Logged in account summary page.](/static/img/mgov_sum.png)
