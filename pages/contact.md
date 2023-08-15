@@ -9,4 +9,4 @@ eleventyNavigation:
   key: Contact
   order: 3
 ---
-Each submission is passed through a spam filter and if flagged, will display a CAPTCHA challenge to the user.
+
