@@ -17,6 +17,7 @@ Reviving the Medicare Plan Finder tool
 ## The Challenge
 
 Nearly 15% of Americans are currently enrolled in Medicare and that number is expected to double over the next decade. As this group grows and more people rely on technology to help them access and enroll in government services, it is crucial that reliable and accessible access to these digital services meets their needs.
+{: .class .class-1 .class-2}
 
 The process of shopping for and enrolling in a Medicare plan is an intimidating journey due to the importance of the beneficiary's decision which affects their health and drug coverage &mdash; but also due to the incredible amount of data about options and services that flood Medicare beneficiaries every year.
 
@@ -63,7 +64,6 @@ Since CMS launched the redesigned [Medicare Plan Finder](https://www.medicare.go
 
 Most importantly, people found it useful and helpful.
 > “Even I, a 73-year-old guy who’s not very computer savvy can figure it out.”
-{: title="Blockquote title"}
 
 > “I really like it because it’s self-explanatory and gives things in detail. You know up front what each plan costs a month, what your deductibles are, and what drugs are covered and what drugs aren’t. That’s really important."
 
