@@ -37,10 +37,13 @@ At the core of our design approach, the questions we kept asking were:
 ## The Work
 Gathering insight from Medicare beneficiaries, customer service reps, and state-sponsored support agencies we were awash with data into how people used signed up for and accessed their Medicare services. Through our usability sessions during Open Enrollment, we saw how people actually used Medicare.gov and began exploring the highest impact changes we could make improve the tool. 
 
-Also worth noting is the policy and business requirements that exist &mdash; sometimes from a very high level in the federal government. Our cross-functional team had many discussions and workshops with stakeholders around balancing the user improvments, policy needs, and technical feasibility.
-
 ![A screenshot from a Mural board at a collaborative workshop session with stakeholders. High fidelity mockups and sticky notes are prevalent.](/static/img/mgov_collab.png)
 *A screenshot from a Mural board at a collaborative workshop session with stakeholders. High fidelity mockups and sticky notes are prevalent.*
+
+The policy and business requirements that exist &mdash; sometimes from a very high level in the federal government. Our cross-functional team had many discussions and workshops with stakeholders around balancing the user improvments, policy needs, and technical feasibility.
+
+![I also created a service map to better understand the touchpoints with our user base.](/static/img/service-map.png)
+*I also created a service map to better understand the touchpoints with our user base.*
 
 ![Six stages of the design process: Empathize, Define, Ideate, Prototype, Test, Implement.](/static/img/process.png)
 *Six stages of the design process: Empathize, Define, Ideate, Prototype, Test, Implement.*

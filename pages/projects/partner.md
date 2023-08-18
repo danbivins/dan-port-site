@@ -23,8 +23,10 @@ Reducing recidivism is a complex and varied problem. Without a community support
 Our, small cross-functional team collaborated with the client plus former inmates to better understand the needs and requirements. Through hours of discovery and exploration of key relationships between those who would use the tool, mapping of needs and experiences, and identifying data constraints we delivered an exceptional tool for our client.
 
 ![A rough draft of a user flow to help think through how people who are incarcerated may use the tool.](/static/img/cc_roles.png)
-![An early mapping of one level of admin's purpose and action within the tool.](/static/img/cc_map.png)
+*An early draft of a user flow to help think through how people who are incarcerated may use the tool. Note that there were several user types to be accounted for and shown here is just one.*
 
+![An early mapping of one level of admin's purpose and action within the tool.](/static/img/cc_map.png)
+*An early mapping of one level of admin's purpose and action within the tool. This was done to provide visuals to discuss from and work through after early discussions with stakeholders.*
 
 ### Our core features of focus
 - **Clear and accessible searches.** People who are incarcerated need the ability to research opportunities and resources in the community. They also need to be able to share the info of these resources with a family member outside of the facility, providing a stronger connection for families allows for increased chances of success.
