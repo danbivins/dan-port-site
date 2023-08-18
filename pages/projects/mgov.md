@@ -67,7 +67,7 @@ Since CMS launched the redesigned [Medicare Plan Finder](https://www.medicare.go
 - Saw an average of 373,000 visitors a day during the next Medicare Open Enrollment.
 - Zero downtime for the redesigned Medicare Plan Finder, meaning the tool ran smoothly and did not impact an individual’s ability to find and enroll in Medicare.
 
-Most importantly, people found it useful and helpful.
+Most importantly, we were getting positive feedback from our users:
 > “Even I, a 73-year-old guy who’s not very computer savvy can figure it out.”
 
 > “I really like it because it’s self-explanatory and gives things in detail. You know up front what each plan costs a month, what your deductibles are, and what drugs are covered and what drugs aren’t. That’s really important."
