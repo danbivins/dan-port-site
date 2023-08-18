@@ -34,7 +34,7 @@ Our, small cross-functional team collaborated with the client plus former inmate
 - **Access and communication.** The community organizations that provide services, case workers for the incarcerated, and the incarcerated all needed access to the app with a variety of use cases and entry points to the system.
 
 ### Accessibility
-Another critical point was the need for the design to be **ccessible, flexible, and performant**. Many who are incarcerated would be accessing the app on devices with less than optimal operating systems and internet access. So the app must accomodate for the constraints that these phones and tablets provided. Our team worked with our engineers to focus on building within this constraint but also our designs needed to be lightweight and flexible &mdash; considering when resources may not load optimally. 
+Another critical point was the need for the design to be **accessible, flexible, and performant**. Many who are incarcerated would be accessing the app on devices with less than optimal operating systems and internet access. So the app must accomodate for the constraints that these phones and tablets provided. Our team worked with our engineers to focus on building within this constraint but also our designs needed to be lightweight and flexible &mdash; considering when resources may not load optimally. 
 
 Lastly, a significant percentage of people who are incarcerated have learning disabilities, cognitive limitations, or have limited use of vision or motor skills. Given this, the app needed was built prioritizing inclusive experiences. This is exemplified in patterns such as: include a label with icons, proper form design, plain language, etc. 
 
@@ -46,6 +46,9 @@ While I can't show the final app for NDA reasons, below are early prototypes I d
 
 ![An early mobile mockup showing program offerings (on the left) for someone who is incarcerated and a community program's listing (on the right).](/static/img/cc-mobile.jpg)
 *An early mobile mockup showing program offerings (on the left) for someone who is incarcerated and a community program's listing (on the right).*
+
+![Various states of a user looking for, filtering, and signing up for a program.](/static/img/sec8.jpg)
+*Various states of a user looking for, filtering, and signing up for a program.*
 
 
 [Next project](/projects/mgov)
