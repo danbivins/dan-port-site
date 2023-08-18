@@ -34,6 +34,9 @@ At the core of our design approach, the questions we kept asking were:
 - How do we prioritize all the features we can build to ensure that we have a strong foundation that we can improve upon in the future? AKA, what does our MVP release look like followed by iterative improvements?
 - How do we ensure that we are continuously gathering feedback from those who will use the tool so we can improve over time?
 
+![Six stages of the design process: Empathize, Define, Ideate, Prototype, Test, Implement.](/static/img/process.png)
+*Six stages of the design process: Empathize, Define, Ideate, Prototype, Test, Implement.*
+
 ## The Work
 Gathering insight from Medicare beneficiaries, customer service reps, and state-sponsored support agencies we were awash with data into how people used signed up for and accessed their Medicare services. Through our usability sessions during Open Enrollment, we saw how people actually used Medicare.gov and began exploring the highest impact changes we could make improve the tool. 
 
@@ -44,9 +47,6 @@ The policy and business requirements that exist &mdash; sometimes from a very h
 
 ![I also created a service map to better understand the touchpoints with our user base.](/static/img/service-map.jpg)
 *I also created a service map to better understand the touchpoints with our user base.*
-
-![Six stages of the design process: Empathize, Define, Ideate, Prototype, Test, Implement.](/static/img/process.png)
-*Six stages of the design process: Empathize, Define, Ideate, Prototype, Test, Implement.*
 
 ### Our core features of focus
 
