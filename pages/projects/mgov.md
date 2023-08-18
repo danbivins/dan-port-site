@@ -17,7 +17,6 @@ Reviving the Medicare Plan Finder tool
 ## The Challenge
 
 Nearly 15% of Americans are currently enrolled in Medicare and that number is expected to double over the next decade. As this group grows and more people rely on technology to help them access and enroll in government services, it is crucial that reliable and accessible access to these digital services meets their needs.
-{: .class .class-1 .class-2}
 
 The process of shopping for and enrolling in a Medicare plan is an intimidating journey due to the importance of the beneficiary's decision which affects their health and drug coverage &mdash; but also due to the incredible amount of data about options and services that flood Medicare beneficiaries every year.
 
@@ -43,17 +42,22 @@ Also worth noting is the policy and business requirements that exist &mdash; so
 ![A screenshot from a Mural board at a collaborative workshop session with stakeholders. High fidelity mockups and sticky notes are prevalent.](/static/img/mgov_collab.png)
 *A screenshot from a Mural board at a collaborative workshop session with stakeholders. High fidelity mockups and sticky notes are prevalent.*
 
+![Six stages of the design process: Empathize, Define, Ideate, Prototype, Test, Implement.](/static/img/process.png)
+*Six stages of the design process: Empathize, Define, Ideate, Prototype, Test, Implement.*
+
 ### Our core features of focus
 
 - **The drug and pharmacy search experience.** From research, it was clear that drug costs are one of the most stressful and most important decision points for a beneficiary. These types of questions needed to be at the forefront of our work to reduce pain points. "Which plans cover my drugs?" "Do all pharmacy cover my drugs?" The pharmaceutical landscape is filled with complexity and constantly evolving due to policy changes, how a plan and pharmacy covers a drug, what tier that drug is on, and how the drug moves through the Medicare coverage phases. We presented key drug information when it was needed, providing the answers to those tough questions so users had the right data to make an informed decision.
 - **An anonymous shopping and plan enrollment experience** Provide just the right information &mdash; and the right amount of information &mdash; at the righ time within the decision making process.
 - **A personalized, logged in experience** Streamline the plan selection and guide the user through the enrollment process to reduce a user's time to success.
 
-![The redesigned pharmacy search experience.](/static/img/mgov_PharmacySelection.png)
-![Logged in account summary page.](/static/img/mgov_sum.png)
 
 
 ## The Outcome
+
+![The redesigned pharmacy search experience.](/static/img/mgov_PharmacySelection.png)
+![Logged in account summary page.](/static/img/mgov_sum.png)
+
 ![The redesigned pharmacy search experience.](/static/img/mgov_PharmacySelection.png)
 *The redesigned pharmacy search experience.*
 
