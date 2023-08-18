@@ -44,7 +44,7 @@ While I can't show the final app for NDA reasons, below are early prototypes I d
 ![An early mockup showing program offerings for someone who is incarcerated.](/static/img/program-detail.png)
 *An early mockup, on desktop, showing program offerings for someone who is incarcerated.*
 
-![An early mobile mockup showing program offerings (on the left) for someone who is incarcerated and a community program's listing (on the right).](/static/img/cc_mobile.jpg)
+![An early mobile mockup showing program offerings (on the left) for someone who is incarcerated and a community program's listing (on the right).](/static/img/cc-mobile.jpg)
 *An early mobile mockup showing program offerings (on the left) for someone who is incarcerated and a community program's listing (on the right).*
 
 
