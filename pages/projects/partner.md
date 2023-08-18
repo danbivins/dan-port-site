@@ -1,5 +1,5 @@
 ---
-title: Incarcerated Community Partnership
+title: Providing a path forward for the former incarcerated
 metaDescription: Projects of Dan Bivins
 date: 2023-01-01T00:00:00.000Z
 permalink: /projects/partner.html
@@ -8,7 +8,7 @@ permalink: /projects/partner.html
 #   order: 1
 ---
 
-*Providing a path forward for the former incarcerated*
+
 
 ## My role
 - UX/UI Design
