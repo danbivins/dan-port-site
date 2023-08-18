@@ -47,7 +47,7 @@ Also worth noting is the policy and business requirements that exist &mdash; so
 
 ### Our core features of focus
 
-- **The drug and pharmacy search experience.** From research, it was clear that drug costs are one of the most stressful and most important decision points for a beneficiary. These types of questions needed to be at the forefront of our work to reduce pain points. "Which plans cover my drugs?" "Do all pharmacy cover my drugs?" The pharmaceutical landscape is filled with complexity and constantly evolving due to policy changes, how a plan and pharmacy covers a drug, what tier that drug is on, and how the drug moves through the Medicare coverage phases. We presented key drug information when it was needed, providing the answers to those tough questions so users had the right data to make an informed decision.
+- **The drug and pharmacy search experience** From research, it was clear that drug costs are one of the most stressful and most important decision points for a beneficiary. These types of questions needed to be at the forefront of our work to reduce pain points. "Which plans cover my drugs?" "Do all pharmacy cover my drugs?" The pharmaceutical landscape is filled with complexity and constantly evolving due to policy changes, how a plan and pharmacy covers a drug, what tier that drug is on, and how the drug moves through the Medicare coverage phases. We presented key drug information when it was needed, providing the answers to those tough questions so users had the right data to make an informed decision.
 - **An anonymous shopping and plan enrollment experience** Provide just the right information &mdash; and the right amount of information &mdash; at the righ time within the decision making process.
 - **A personalized, logged in experience** Streamline the plan selection and guide the user through the enrollment process to reduce a user's time to success.
 
@@ -56,10 +56,11 @@ Also worth noting is the policy and business requirements that exist &mdash; so
 ## The Outcome
 
 ![The redesigned pharmacy search experience.](/static/img/mgov_PharmacySelection.png)
-![Logged in account summary page.](/static/img/mgov_sum.png)
+The redesigned pharmacy search experience which allows for a user to select their "favorite" pharmacies. In the legacy version of the tool this was not part of the experience which meant that a the costs the user saw a page later in the experience were not personalized to the exact pharmacies that they frequented. Over and over in testing we heard from our users that this was a huge improvement in the experience. 
 
-![The redesigned pharmacy search experience.](/static/img/mgov_PharmacySelection.png)
-*The redesigned pharmacy search experience.*
+![Logged in account summary page.](/static/img/mgov_sum.png)
+A personalized, logged in experience where a user can login and see all of their relevant, specific information upfront. Again, this was not possible in the old tool. The MVP version of this page still had lots of room for improvement but at least provided a snapshot of a user's Medicare account info and allowed them a jumping off point to make edits or look at a new plan. 
+
 
 Since CMS launched the redesigned [Medicare Plan Finder](https://www.medicare.gov/plan-compare/#/?year=2022&lang=en), the tool:
 - Has helped more than 2.6 million Medicare beneficiaries enroll in a Medicare plan, about 40% more enrollments than the legacy tool the previous year
@@ -70,5 +71,7 @@ Most importantly, people found it useful and helpful.
 > “Even I, a 73-year-old guy who’s not very computer savvy can figure it out.”
 
 > “I really like it because it’s self-explanatory and gives things in detail. You know up front what each plan costs a month, what your deductibles are, and what drugs are covered and what drugs aren’t. That’s really important."
+
+
 
 [Next project](/projects/partner)
