@@ -48,6 +48,6 @@ While I can't show the final app for NDA reasons, below are early prototypes I d
 *An early mockup, on mobile, showing program offerings for someone who is incarcerated.*
 
 ![A detail view of a program's listing.](/static/img/cc_detail.png)
-*A detail view of a program's listing.*
+*A detail view of a community program's listing.*
 
 [Next project](/projects/mgov)
