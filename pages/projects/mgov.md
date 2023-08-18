@@ -62,11 +62,12 @@ The redesigned pharmacy search experience which allows for a user to select thei
 ![Logged in account summary page.](/static/img/mgov_sum.png)
 A personalized, logged in experience where a user can login and see all of their relevant, specific information upfront. Again, this was not possible in the old tool. The MVP version of this page still had lots of room for improvement but at least provided a snapshot of a user's Medicare account info and allowed them a jumping off point to make edits or look at a new plan. 
 
+### What we accomplished
 
 Since CMS launched the redesigned [Medicare Plan Finder](https://www.medicare.gov/plan-compare/#/?year=2022&lang=en), the tool:
-- Has helped more than 2.6 million Medicare beneficiaries enroll in a Medicare plan, about 40% more enrollments than the legacy tool the previous year
-- Saw an average of 373,000 visitors a day during the next Medicare Open Enrollment.
-- Zero downtime for the redesigned Medicare Plan Finder, meaning the tool ran smoothly and did not impact an individual’s ability to find and enroll in Medicare.
+- Has helped **more than 2.6 million Medicare beneficiaries** enroll in a Medicare plan, about 40% more enrollments than the legacy tool the previous year
+- Saw an average of **373,000 visitors a day** during the next Medicare Open Enrollment.
+- **Zero downtime** for the redesigned Medicare Plan Finder, meaning the tool ran smoothly and did not impact an individual’s ability to find and enroll in Medicare.
 
 Most importantly, we were getting positive feedback from our users:
 > “Even I, a 73-year-old guy who’s not very computer savvy can figure it out.”
