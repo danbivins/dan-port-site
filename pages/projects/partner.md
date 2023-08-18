@@ -41,8 +41,11 @@ Lastly, a significant percentage of people who are incarcerated have learning di
 ## The Outcome
 While I can't show the final app for NDA reasons, below are early prototypes I designed during our ideation phase. 
 
+![An early mockup showing program offerings for someone who is incarcerated.](/static/img/program-detail.jpg)
+*An early mockup, on desktop, showing program offerings for someone who is incarcerated.*
+
 ![An early mockup showing program offerings for someone who is incarcerated.](/static/img/cc_programs.png)
-*An early mockup showing program offerings for someone who is incarcerated.*
+*An early mockup, on mobile, showing program offerings for someone who is incarcerated.*
 
 ![A detail view of a program's listing.](/static/img/cc_detail.png)
 *A detail view of a program's listing.*

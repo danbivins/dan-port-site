@@ -42,7 +42,7 @@ Gathering insight from Medicare beneficiaries, customer service reps, and state-
 
 The policy and business requirements that exist &mdash; sometimes from a very high level in the federal government. Our cross-functional team had many discussions and workshops with stakeholders around balancing the user improvments, policy needs, and technical feasibility.
 
-![I also created a service map to better understand the touchpoints with our user base.](/static/img/service-map.png)
+![I also created a service map to better understand the touchpoints with our user base.](/static/img/service-map.jpg)
 *I also created a service map to better understand the touchpoints with our user base.*
 
 ![Six stages of the design process: Empathize, Define, Ideate, Prototype, Test, Implement.](/static/img/process.png)
