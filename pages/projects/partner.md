@@ -37,7 +37,10 @@ Another critical point was the need for the design to be **ccessible, flexible, 
 Lastly, a significant percentage of people who are incarcerated have challenges such as learning disabilities, other cognitive limitations, or have limited use of vision or motor skills. Given this, our app needed to be built in an inclusive manner from the start taking care to provide equal access to to everyone.
 
 ## The Outcome
-![An early mockup showing program offerings for someone who is incarcerated.](ccmp_programs.png)
+![An early mockup showing program offerings for someone who is incarcerated.](/static/img/ccmp_programs.png)
+*An early mockup showing program offerings for someone who is incarcerated.*
+
 ![A detail view of a program's listing.](/static/img/ccmp_detail.png)
+*A detail view of a program's listing.*
 
 [Next project](/projects/mgov)
