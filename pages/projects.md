@@ -8,5 +8,5 @@ permalink: /projects/index.html
 #   order: 1
 ---
 
-- Medicare: [Reviving the Medicare Plan Finder tool](/projects/mgov/) 
-- [Incarcerated Community Partnership](/projects/partner/):  Providing a path forward for the former incarcerated
+- Medicare: [Reviving the Medicare plan search and enrollment](/projects/mgov/) 
+- [Incarcerated Community Partnership App](/projects/partner/):  Providing a path forward for the former incarcerated

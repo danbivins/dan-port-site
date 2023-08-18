@@ -1,5 +1,5 @@
 ---
-title: Medicare.gov
+title: Reviving the Medicare Plan Finder tool
 metaDescription: Projects of Dan Bivins
 date: 2023-01-01T00:00:00.000Z
 permalink: /projects/mgov.html
@@ -7,8 +7,6 @@ permalink: /projects/mgov.html
 #   key: About
 #   order: 1
 ---
-
-Reviving the Medicare Plan Finder tool
 
 ## My role
 - UX/UI Design
