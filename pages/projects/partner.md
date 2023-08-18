@@ -50,5 +50,7 @@ While I can't show the final app for NDA reasons, below are early prototypes I d
 ![Various states of a user looking for, filtering, and signing up for a program.](/static/img/sec8.jpg)
 *Various states of a user looking for, filtering, and signing up for a program.*
 
+By providing an open access to community offerings, we were able to allow the incarcerated and formerly incarcerated the highest chances of success. 
+
 
 [Next project](/projects/mgov)
