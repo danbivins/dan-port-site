@@ -33,6 +33,10 @@ h2 {
 	margin: 3rem 0 1rem 0;
 }
 
+h3 {
+	margin: 2rem 0 0;;
+}
+
 h2 + p {
 	margin-top: 0.375rem;
 }
@@ -43,8 +47,9 @@ li {
 
 p,
 pre,
-code {
-	line-height: 1.5;
+code,
+li {
+	line-height: 1.75;
 }
 
 a[href],
