@@ -8,7 +8,7 @@ permalink: /projects/partner.html
 #   order: 1
 ---
 
-Providing a path forward for the former incarcerated
+*Providing a path forward for the former incarcerated*
 
 ## My role
 - UX/UI Design
