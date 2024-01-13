@@ -55,11 +55,12 @@ The policy and business requirements that exist &mdash; sometimes from a very h
 
 ## The Outcome
 
-![The redesigned pharmacy search experience.](/static/img/mgov_PharmacySelection.png)
 The redesigned pharmacy search experience which allows for a user to select their "favorite" pharmacies. In the legacy version of the tool this was not part of the experience which meant that a the costs the user saw a page later in the experience were not personalized to the exact pharmacies that they frequented. Over and over in testing we heard from our users that this was a huge improvement in the experience. 
+![The redesigned pharmacy search experience.](/static/img/mgov_PharmacySelection.png)
 
-![Logged in account summary page.](/static/img/mgov_sum.png)
 A personalized, logged in experience where a user can login and see all of their relevant, specific information upfront. Again, this was not possible in the old tool. The MVP version of this page still had lots of room for improvement but at least provided a snapshot of a user's Medicare account info and allowed them a jumping off point to make edits or look at a new plan. 
+![Logged in account summary page.](/static/img/mgov_sum.png)
+
 
 ### What we accomplished
 
