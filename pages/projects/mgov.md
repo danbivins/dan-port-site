@@ -16,9 +16,9 @@ permalink: /projects/mgov.html
 
 Nearly 15% of Americans are currently enrolled in Medicare and that number is expected to double over the next decade. As this group grows and more people rely on technology to help them access and enroll in government services, it is crucial that reliable and accessible access to these digital services meets their needs.
 
-The process of shopping for and enrolling in a Medicare plan is an intimidating journey due to the importance of the beneficiary's decision which affects their health and drug coverage &mdash; but also due to the incredible amount of data about options and services that flood Medicare beneficiaries every year.
+The process of shopping for and enrolling in a Medicare plan is an intimidating journey due to the importance of the beneficiary's decision which affects their health and drug coverage &mdash; but also due to the incredible amount of data about options and services that flood Medicare beneficiaries every year. Compounding this overwhelming time for millions of Americans is the fact that the legacy app used to sign up for healthcare was not easy to parse or navigate and was not even responsive.
 
-Working collaboratively with our government partners at the Centers for Medicare & Medicaid Services (CMS) [Ad Hoc's](https://adhoc.team/) goal was to replace a legacy tool built more than a decade ago with a tool that would make it easier for Medicare beneficiaries, or those who help them, to find and enroll in a health plan that best meets their health and financial needs.
+<strong>Goal:</strong> Improve the flow of finding and purchasing a healthcare plan by reducing friction and cognitive load for users. 
 
 ![A screenshot of the legacy tool's Plan Results page](/static/img/mgov_old_plans.png)
 *A screenshot of the legacy tool's Plan Results page*
@@ -28,9 +28,8 @@ Some of the **foundational issues we needed to resolve** in this rebuild were:
 - Poor UX: presented an overwhelming amount of information and cognitively overwhelmed the user and did not set up users for success with the forms they had to fill out 
 - Not performant: was not built with performance, security, and reliability as a priority
 
-At the core of our design approach, the questions we kept asking were:
-- How do we prioritize all the features we can build to ensure that we have a strong foundation that we can improve upon in the future? AKA, what does our MVP release look like followed by iterative improvements?
-- How do we ensure that we are continuously gathering feedback from those who will use the tool so we can improve over time?
+At the core of our design approach, the **big question we returned to was**:
+What can we deliver as an MVP to provide the most improvement in the shortest amount of time? Tangentially, what iterations over time can we deliver to continue improving based on user feedback? 
 
 ![Six stages of the design process: Empathize, Define, Ideate, Prototype, Test, Implement.](/static/img/process.png)
 *Six stages of the design process: Empathize, Define, Ideate, Prototype, Test, Implement.*
