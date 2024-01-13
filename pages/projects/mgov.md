@@ -18,7 +18,7 @@ Nearly 15% of Americans are currently enrolled in Medicare and that number is ex
 
 The process of shopping for and enrolling in a Medicare plan is an intimidating journey due to the importance of the beneficiary's decision which affects their health and drug coverage &mdash; but also due to the incredible amount of data about options and services that flood Medicare beneficiaries every year. Compounding this overwhelming time for millions of Americans is the fact that the legacy app used to sign up for healthcare was not easy to parse or navigate and was not even responsive.
 
-<strong>Goal:</strong> Improve the flow of finding and purchasing a healthcare plan by reducing friction and cognitive load for users. 
+**Goal:** Improve the flow of finding and purchasing a healthcare plan by reducing friction and cognitive load for users. 
 
 ![A screenshot of the legacy tool's Plan Results page](/static/img/mgov_old_plans.png)
 *A screenshot of the legacy tool's Plan Results page*
@@ -40,10 +40,10 @@ Gathering insight from Medicare beneficiaries, customer service reps, and state-
 ![A screenshot from a Mural board at a collaborative workshop session with stakeholders. High fidelity mockups and sticky notes are prevalent.](/static/img/mgov_collab.png)
 *A screenshot from a Mural board at a collaborative workshop session with stakeholders. High fidelity mockups and sticky notes are prevalent.*
 
-The policy and business requirements that exist &mdash; sometimes from a very high level in the federal government. Our cross-functional team had many discussions and workshops with stakeholders around balancing the user improvments, policy needs, and technical feasibility.
+Our cross-functional team had many discussions and workshops with stakeholders around balancing the user improvments, policy needs, and technical feasibility.
 
 ![I also created a service map to better understand the touchpoints with our user base.](/static/img/service-map.jpg)
-*I also created a service map to better understand the touchpoints with our user base.*
+*A service map I created to better understand the touchpoints with our user base.*
 
 ### Our core features of focus
 
