@@ -40,27 +40,38 @@ Gathering insight from Medicare beneficiaries, customer service reps, and state-
 ![A screenshot from a Mural board at a collaborative workshop session with stakeholders. High fidelity mockups and sticky notes are prevalent.](/static/img/mgov_collab.png)
 *A screenshot from a Mural board at a collaborative workshop session with stakeholders. High fidelity mockups and sticky notes are prevalent.*
 
-Our cross-functional team had many discussions and workshops with stakeholders around balancing the user improvments, policy needs, and technical feasibility.
+Our cross-functional team had many discussions and workshops with stakeholders around balancing the user improvments, policy needs, and technical feasibility. Also key to this part of the process was listening to call center representatives. These core workers were able to provide us with a wealth of information that they hear every day from the frontlines where users call with questions and concerns.
 
-![I also created a service map to better understand the touchpoints with our user base.](/static/img/service-map.jpg)
+![A service map I created to better understand and share the touchpoints with our user base.](/static/img/service-map.jpg)
 *A service map I created to better understand the touchpoints with our user base.*
 
 ### Our core features of focus
 
-- **The drug and pharmacy search experience** From research, it was clear that drug costs are one of the most stressful and most important decision points for a beneficiary. These types of questions needed to be at the forefront of our work to reduce pain points. "Which plans cover my drugs?" "Do all pharmacy cover my drugs?" The pharmaceutical landscape is filled with complexity and constantly evolving due to policy changes, how a plan and pharmacy covers a drug, what tier that drug is on, and how the drug moves through the Medicare coverage phases. We presented key drug information when it was needed, providing the answers to those tough questions so users had the right data to make an informed decision.
-- **An anonymous shopping and plan enrollment experience** Provide just the right information &mdash; and the right amount of information &mdash; at the righ time within the decision making process.
+- **The drug and pharmacy search experience** From research, it was clear that drug costs are one of the most stressful and most important decision points for a beneficiary. The pharmaceutical landscape is filled with complexity and is constantly evolving due to policy changes, how a plan and pharmacy covers a drug, what tier that drug is on, and how the drug moves through the Medicare coverage phases. By reducing friction at this stage in the user flow we could ease the tension in the experience and reduce time to complete the action.
+- **An anonymous plan search and enrollment experience** Provide just the right amount of information at the right time within the decision making process to allow users to quickly find what they need and make a decision. Some users don't want to log in at first so allow them to find 
 - **A personalized, logged in experience** Streamline the plan selection and guide the user through the enrollment process to reduce a user's time to success.
-
 
 
 ## The Outcome
 
-The redesigned pharmacy search experience which allows for a user to select their "favorite" pharmacies. In the legacy version of the tool this was not part of the experience which meant that a the costs the user saw a page later in the experience were not personalized to the exact pharmacies that they frequented. Over and over in testing we heard from our users that this was a huge improvement in the experience. 
+### Key design points of pharmacy search redesign
+- Allow users to filter results, reducing cognitive load and making it easier to find relevant info
+- Allow users to "add pharmacies" to their logged-in experince so they could receive more accurate drug pricing
+- Cleaner use of heirarchy, typography, and white space to allow the content to breathe and reduce visual and cognitive load
+- Display a map view for contextual setting and alternative method of viewing the data
 ![The redesigned pharmacy search experience.](/static/img/mgov_PharmacySelection.png)
 
-A personalized, logged in experience where a user can login and see all of their relevant, specific information upfront. Again, this was not possible in the old tool. The MVP version of this page still had lots of room for improvement but at least provided a snapshot of a user's Medicare account info and allowed them a jumping off point to make edits or look at a new plan. 
-![Logged in account summary page.](/static/img/mgov_sum.png)
+Repeatedly in user testing our users said that this was a huge improvement in the experience. 
+<!-- By presenting key drug information when it was needed users had the right data to make an informed decision. -->
 
+### Key design points of the plan results page
+- Provide users with a simpler and clearer presentation of the data using improved heirarchy of typography, white space, and grouping of data. 
+- Provide users with sufficient info, at this point in their search, so as not to overwhelm them yet display relevant info for their healthcare search.
+- An accessible and usable mobile experience.
+
+![The redesigned Plan Results page.](/static/img/results1.png)
+![The redesigned Plan Results on mobile experience, showing the filters being used .](/static/img/results2.png)
+ 
 
 ### What we accomplished
 
