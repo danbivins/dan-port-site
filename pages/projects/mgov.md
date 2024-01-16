@@ -77,7 +77,7 @@ The legacy app's plan results designs were honestly a low bar to improve upon. U
 ![The redesigned Plan Results page.](/static/img/results1.png)
 ![The redesigned Plan Results on desktop, showing the filters being used .](/static/img/results2.png)
 
-![The redesigned Plan Results on mobile experience.](/static/img/results-tablet.png)
+![The redesigned Plan Results on mobile experience.](/static/img/results-tablet.png) {.style-me}
 
 *The redesigned Plan Results on mobile experience*
 
