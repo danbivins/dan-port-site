@@ -62,7 +62,6 @@ Our cross-functional team had many discussions and workshops with stakeholders a
 ![The redesigned pharmacy search experience.](/static/img/mgov_PharmacySelection.png)
 
 Repeatedly in user testing our users said that this was a huge improvement in the experience. 
-<!-- By presenting key drug information when it was needed users had the right data to make an informed decision. -->
 
 ### Key design points of the plan results page
 - Provide users with a simpler and clearer presentation of the data using improved heirarchy of typography, white space, and grouping of data. 
@@ -70,7 +69,8 @@ Repeatedly in user testing our users said that this was a huge improvement in th
 - An accessible and usable mobile experience.
 
 ![The redesigned Plan Results page.](/static/img/results1.png)
-![The redesigned Plan Results on mobile experience, showing the filters being used .](/static/img/results2.png)
+![The redesigned Plan Results on desktop, showing the filters being used .](/static/img/results2.png)
+![The redesigned Plan Results on mobile experience.](/static/img/results-tablet.png)
  
 
 ### What we accomplished
