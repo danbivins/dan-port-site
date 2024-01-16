@@ -53,17 +53,23 @@ Our cross-functional team had many discussions and workshops with stakeholders a
 
 
 ## The Outcome
+Shown below is the MVP version we delivered in time for Open Enrollment. Further iterations based on usability testing and collaborations with client stakeholders allowed the work to evolve, as it should, but this work allowed for a solid foundation to serve to the American people. 
 
-### Key design points of pharmacy search redesign
+### Pharmacy search redesign
+Repeatedly in user testing our users noted that the redesign was a huge improvement in their experience and now they would gladly use medicare.gov for their healthcare search. 
+
+#### Key design points of pharmacy search redesign
 - Allow users to filter results, reducing cognitive load and making it easier to find relevant info
 - Allow users to "add pharmacies" to their logged-in experince so they could receive more accurate drug pricing
 - Cleaner use of heirarchy, typography, and white space to allow the content to breathe and reduce visual and cognitive load
 - Display a map view for contextual setting and alternative method of viewing the data
 ![The redesigned pharmacy search experience.](/static/img/mgov_PharmacySelection.png)
 
-Repeatedly in user testing our users said that this was a huge improvement in the experience. 
 
-### Key design points of the plan results page
+### Plan Results redesign
+The legacy app's plan results designs were honestly a low bar to improve upon. Utilizing our design system, we were able to leverage modern design patterns quickly to solve problems. 
+
+#### Key design points of the plan results page
 - Provide users with a simpler and clearer presentation of the data using improved heirarchy of typography, white space, and grouping of data. 
 - Provide users with sufficient info, at this point in their search, so as not to overwhelm them yet display relevant info for their healthcare search.
 - An accessible and usable mobile experience.
@@ -73,7 +79,7 @@ Repeatedly in user testing our users said that this was a huge improvement in th
 ![The redesigned Plan Results on mobile experience.](/static/img/results-tablet.png)
  
 
-### What we accomplished
+## What we accomplished
 
 Since CMS launched the redesigned [Medicare Plan Finder](https://www.medicare.gov/plan-compare/#/?year=2022&lang=en), the tool:
 - Has helped **more than 2.6 million Medicare beneficiaries** enroll in a Medicare plan, about 40% more enrollments than the legacy tool the previous year
