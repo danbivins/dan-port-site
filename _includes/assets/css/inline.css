@@ -225,5 +225,11 @@ em {
 	color: gray;
 	border-bottom: 1px solid #d7d7d7;
 	display: block;
-  }
+}
+
+.img-mobile {
+	display: block;
+	max-width: 400px;
+	margin: 2rem auto;
+}
 
