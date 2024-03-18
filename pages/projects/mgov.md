@@ -35,7 +35,7 @@ What can we deliver as an MVP to provide the most improvement in the shortest am
 *Six stages of the design process: Empathize, Define, Ideate, Prototype, Test, Implement.*
 
 ## The Work
-Gathering insight from Medicare beneficiaries, customer service reps, and state-sponsored support agencies we were awash with data into how people used signed up for and accessed their Medicare services. Through our usability sessions during Open Enrollment, we saw how people actually used Medicare.gov and began exploring the highest impact changes we could make improve the tool. 
+Gathering insight from Medicare beneficiaries, customer service reps, and state-sponsored support agencies we were awash with data into how people used, signed up for, and accessed their Medicare services. Through our usability sessions during Open Enrollment we saw how people actually used Medicare.gov and we explored the highest impact changes we could make improve the tool. 
 
 ![A screenshot from a Mural board at a collaborative workshop session with stakeholders. High fidelity mockups and sticky notes are prevalent.](/static/img/mgov_collab.png)
 *A screenshot from a Mural board at a collaborative workshop session with stakeholders. High fidelity mockups and sticky notes are prevalent.*
