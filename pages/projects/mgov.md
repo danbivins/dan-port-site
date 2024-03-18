@@ -16,9 +16,7 @@ permalink: /projects/mgov.html
 
 Nearly 15% of Americans are currently enrolled in Medicare and that number is expected to double over the next decade. As this group grows and more people rely on technology to help them access and enroll in government services, it is crucial that reliable and accessible access to these digital services meets their needs.
 
-The process of shopping for and enrolling in a Medicare plan is an intimidating journey due to the importance of the beneficiary's decision which affects their health and drug coverage &mdash; but also due to the incredible amount of data about options and services that flood Medicare beneficiaries every year. Compounding this overwhelming time for millions of Americans is the fact that the legacy app used to sign up for healthcare was not easy to parse or navigate and was not even responsive.
-
-**Goal:** Improve the flow of finding and purchasing a healthcare plan by reducing friction and cognitive load for users. 
+The process of shopping for and enrolling in a Medicare plan is an intimidating journey due to the importance of the beneficiary's decision which affects their health and drug coverage &mdash; but also due to the incredible amount of data about options and services that flood Medicare beneficiaries every year. Compounding this overwhelming time for millions of Americans is the fact that the legacy app used to sign up for healthcare was not easy to parse or navigate and was not even responsive. We knew this to be true from user surveys, usability testing, and meeting with customer service representatives.
 
 ![A screenshot of the legacy tool's Plan Results page](/static/img/mgov_old_plans.png)
 *A screenshot of the legacy tool's Plan Results page*
@@ -28,28 +26,31 @@ Some of the **foundational issues we needed to resolve** in this rebuild were:
 - Poor UX: presented an overwhelming amount of information and cognitively overwhelmed the user and did not set up users for success with the forms they had to fill out 
 - Not performant: was not built with performance, security, and reliability as a priority
 
-At the core of our design approach, the **big question we returned to was**:
-What can we deliver as an MVP to provide the most improvement in the shortest amount of time? Tangentially, what iterations over time can we deliver to continue improving based on user feedback? 
+At the core of our design approach, the **big questions we returned to were**:
+What can we deliver as an MVP to provide the most impact in the shortest amount of time? Tangentially, what iterations over time can we deliver to continue improving based on user feedback? Continuing to resurface these allowed us to reflect on, and refine, our UX roadmap to iterate on the product.
+
+**Overall Goal:** Improve the flow of finding and purchasing a healthcare plan by reducing friction and cognitive load for users. 
+
+To acheive this goal we need to reconsider the IA of the flow when a user searches for plans available to them and begins to tease out the best plan for their situation.
 
 ![Six stages of the design process: Empathize, Define, Ideate, Prototype, Test, Implement.](/static/img/process.png)
 *Six stages of the design process: Empathize, Define, Ideate, Prototype, Test, Implement.*
 
 ## The Work
-Gathering insight from Medicare beneficiaries, customer service reps, and state-sponsored support agencies we were awash with data into how people used, signed up for, and accessed their Medicare services. Through our usability sessions during Open Enrollment we saw how people actually used Medicare.gov and we explored the highest impact changes we could make improve the tool. 
+Gathering insight from Medicare beneficiaries, customer service reps, and state-sponsored support agencies we were awash with data into how people used, signed up for, and accessed their Medicare services. Through our usability sessions during Open Enrollment we saw how people used Medicare.gov and how they struggled. With this info we explored the highest impact changes we could make to improve the tool. 
 
 ![A screenshot from a Mural board at a collaborative workshop session with stakeholders. High fidelity mockups and sticky notes are prevalent.](/static/img/mgov_collab.png)
 *A screenshot from a Mural board at a collaborative workshop session with stakeholders. High fidelity mockups and sticky notes are prevalent.*
 
-Our cross-functional team had many discussions and workshops with stakeholders around balancing the user improvments, policy needs, and technical feasibility. Also key to this part of the process was listening to call center representatives. These core workers were able to provide us with a wealth of information that they hear every day from the frontlines where users call with questions and concerns.
+Our cross-functional team organized workshops with diverse stakeholders around balancing the user improvements, policy needs, and technical feasibility. A real key to this step of the process was listening to call center representatives. These "boots on the ground" workers were able to provide us with a wealth of information that they hear every day from users who call with a myriad of questions and issues while trying to sign up for a plan.
 
 ![A service map I created to better understand and share the touchpoints with our user base.](/static/img/service-map.jpg)
-*A service map I created to better understand the touchpoints with our user base.*
+*A service map I created to better understand the touchpoints with our user base. This continued to be revised with the more we learned.*
 
 ### Our core features of focus
 
-- **The drug and pharmacy search experience** From research, it was clear that drug costs are one of the most stressful and most important decision points for a beneficiary. The pharmaceutical landscape is filled with complexity and is constantly evolving due to policy changes, how a plan and pharmacy covers a drug, what tier that drug is on, and how the drug moves through the Medicare coverage phases. By reducing friction at this stage in the user flow we could ease the tension in the experience and reduce time to complete the action.
-- **An anonymous plan search and enrollment experience** Provide just the right amount of information at the right time within the decision making process to allow users to quickly find what they need and make a decision. Some users don't want to log in at first so allow them to find 
-- **A personalized, logged in experience** Streamline the plan selection and guide the user through the enrollment process to reduce a user's time to success.
+- **Drilling down to the drug and pharmacy search experience** From research, it was clear that drug costs are one of the most stressful and most important decision points for a beneficiary. The pharmaceutical landscape is filled with complexity and is constantly evolving due to policy changes, how a plan and pharmacy covers a drug, what tier that drug is on, and how the drug moves through the Medicare coverage phases. By reducing friction at this stage in the user flow we could ease the tension in the experience and reduce time to complete the action.
+- **Reducing cognitive load during the plan search and enrollment experience** Provide just the right amount of information at the right time within the decision making process to allow users to quickly find what they need and make a decision. Some users don't want to log in at first so allow them to find 
 
 
 ## The Outcome
