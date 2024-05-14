@@ -11,5 +11,5 @@ eleventyNavigation:
 
 I specialize in creating digital experiences that are accessible to everyone through a user-centered approach while collaborating across roles. With over a decade of experience, I've also grown to love well-built design systems and thoughtful, living documentation.
 
-Check out some of [my recent design work](/projects/index.html) but note that most of it is under NDA so [reach out to me](/contact/index.html) if you would like access to that accessibility-focused work
+Check out some of [my recent design work](/projects/index.html) but note that most of it is under NDA so [reach out to me](/contact/index.html) if you would like access to the more accessibility-focused work.
 
