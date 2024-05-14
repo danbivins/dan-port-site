@@ -11,4 +11,4 @@ eleventyNavigation:
 - Medicare: [Reviving the Medicare plan search and enrollment](/projects/mgov/) 
 - [Incarcerated Community Partnership App](/projects/partner/):  Providing a path forward for the former incarcerated
 
-Due to NDAs I cannot show all of my work here. Please reach out to me if you would like access to that accessibility-focused work.
+Due to NDAs I cannot show all of my work here. Please [reach out to me(/contact/index.html)] if you would like access to that accessibility-focused work.
