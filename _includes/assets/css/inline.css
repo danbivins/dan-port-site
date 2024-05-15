@@ -62,7 +62,6 @@ a[href]:hover {
 }
 
 img {
-	box-shadow: 1px 1px 12px #aeaeae82;
 	max-width: 100%;
 	margin: 2rem 0 1rem 0;
 	height: auto;
