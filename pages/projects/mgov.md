@@ -18,8 +18,8 @@ Nearly 15% of Americans are currently enrolled in Medicare and that number is ex
 
 The process of shopping for and enrolling in a Medicare plan is an intimidating journey due to the importance of the beneficiary's decision which affects their health and drug coverage &mdash; but also due to the incredible amount of data about options and services that flood Medicare beneficiaries every year. Compounding this overwhelming time for millions of Americans is the fact that the legacy app used to sign up for healthcare was not easy to parse or navigate and was not even responsive. We knew this to be true from user surveys, usability testing, and meeting with customer service representatives.
 
-![A screenshot of the legacy tool's Plan Results page](/static/img/mgov_old_plans.png)
 *A screenshot of the legacy tool's Plan Results page*
+![A screenshot of the legacy tool's Plan Results page](/static/img/mgov_old_plans.png)
 
 Some of the **foundational issues we needed to resolve** in this rebuild were:
 - Outdated: was not built to be responsive, with all types and sizes of devices in mind
@@ -33,8 +33,8 @@ What can we deliver as an MVP to provide the most impact in the shortest amount 
 
 To acheive this goal we need to reconsider the IA of the flow when a user searches for plans available to them and begins to tease out the best plan for their situation.
 
-![Six stages of the design process: Empathize, Define, Ideate, Prototype, Test, Implement.](/static/img/process.png)
 *Six stages of the design process: Empathize, Define, Ideate, Prototype, Test, Implement.*
+![Six stages of the design process: Empathize, Define, Ideate, Prototype, Test, Implement.](/static/img/process.png)
 
 ## The Work
 Gathering insight from Medicare beneficiaries, customer service reps, and state-sponsored support agencies we were awash with data into how people used, signed up for, and accessed their Medicare services. Through our usability sessions during Open Enrollment we saw how people used Medicare.gov and how they struggled. With this info we explored the highest impact changes we could make to improve the tool. 
