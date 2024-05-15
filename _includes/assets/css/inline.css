@@ -1,7 +1,7 @@
 :root {
 	--primary: blue;
 	--secondary: white;
-	--background: f7f7f7;
+	--background: #f7f7f7;
 	font-size: 1.3rem;
 }
 
@@ -230,7 +230,6 @@ em {
 
 .img-mobile {
 	display: block;
-	max-width: 400px;
 	margin: 2rem auto;
 }
 
