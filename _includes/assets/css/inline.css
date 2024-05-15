@@ -1,7 +1,7 @@
 :root {
 	--primary: blue;
 	--secondary: white;
-	--background: white;
+	--background: f7f7f7;
 	font-size: 1.3rem;
 }
 
@@ -222,9 +222,10 @@ button {
 }
 
 em {
-	color: gray;
 	border-bottom: 1px solid #d7d7d7;
 	display: block;
+	font-family: serif;
+	line-height: 1.35;
 }
 
 .img-mobile {
