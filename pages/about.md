@@ -5,12 +5,14 @@ date: 2017-01-01T00:00:00.000Z
 permalink: /about/index.html
 eleventyNavigation:
   key: About
-  order: 1
+  order: 3
 ---
 
 Learn more about how I approach [this site's accessibility](/accessibility)
 
-I design, write a little bit of front-end code, and spend time helping designers and developers create more inclusive digital products. For a decade I have worked across various industries but currently work with [Ad Hoc](https://adhocteam.us/) as a UX Designer and Accessibility Specialist, building digital services that help the federal government better serve people.
+I design, write a little bit of front-end code, and spend time helping designers and developers create more inclusive digital products. For a decade I have worked across various industries but most currently worked with [Ad Hoc](https://adhocteam.us/) remotely as a UX Designer and Accessibility Specialist, building digital services that help the federal government better serve people.
+
+I prefer: mission-oriented organizations, inclusive spaces and teams, and copious amounts of coffee!
 
 ## Speaking
 Occasionally I give talks on accessibility.
