@@ -5,7 +5,7 @@ date: 2017-01-01T00:00:00.000Z
 permalink: /resume/index.html
 eleventyNavigation:
   key: Resume
-  order: 1
+  order: 4
 ---
 
 
@@ -27,17 +27,12 @@ As the Accessibility Lead on a small team to perform testing, documentation, and
 ### Jenzabar, Inc.
 UX Designer & UI Developer, Nov. 2017 – May 2018
 
-Partnered with a cross-functional team of product managers, developers, and designers to
-build out a design system and pattern library for this large, enterprise organization.
-Building this set of modular, responsive, and accessible components we helped to provide
-a more consistent user, and developer, experience while drastically improving the time it
-takes to ship code.
+Partnered with a cross-functional team of product managers, developers, and designers to build out a design system and pattern library for this large, enterprise organization. Building this set of modular, responsive, and accessible components we helped to provide a more consistent user, and developer, experience while drastically improving the time it takes to ship code.
 
 ### Allianz Worldwide Partners
 Web Designer, Feb. 2016 – Nov. 2017
 
-Strategically drove design and development of impactful marketing sites, actively contributing to strategic planning and ensuring seamless execution aligned with lean-agile methodologies. Revamped Allianz corporate site for enhanced user experience, playing a key role in a collaborative team that successfully reimagined the Allianz corporate site,
-delivering a user-centric, friendly, and mobile-first experience. 
+Strategically drove design and development of impactful marketing sites, actively contributing to strategic planning and ensuring seamless execution aligned with lean-agile methodologies. Revamped Allianz corporate site for enhanced user experience, playing a key role in a collaborative team that successfully reimagined the Allianz corporate site, delivering a user-centric, friendly, and mobile-first experience. 
 
 Contributed within a cross-functional team to the end-to-end design and development of a brand new B2C product site. My role included crafting information architecture and mockups while collaborating with developers for seamless implementation.
 
