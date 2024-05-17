@@ -16,28 +16,23 @@ permalink: /projects/mgov.html
 
 Nearly 15% of Americans are currently enrolled in Medicare and that number is expected to double over the next decade. As this group grows and more people rely on technology to help them access and enroll in government services, it is crucial that reliable and accessible access to these digital services meets their needs.
 
-The process of shopping for and enrolling in a Medicare plan is an intimidating journey due to the importance of the beneficiary's decision which affects their health and drug coverage &mdash; but also due to the incredible amount of data about options and services that flood Medicare beneficiaries every year. Compounding this overwhelming time for millions of Americans is the fact that the legacy app used to sign up for healthcare was not easy to parse or navigate and was not even responsive. We knew this to be true from user surveys, usability testing, and meeting with customer service representatives.
+The process of shopping for and enrolling in a Medicare plan is an intimidating journey due to the importance of the beneficiary's decision which affects their health and drug coverage &mdash; but also due to the incredible amount of data about options and services that flood Medicare beneficiaries every year. Compounding this overwhelming time for millions of Americans is the fact that the legacy app used to sign up for healthcare was cognitively overwhelming and not mobile-friendly. 
 
 ![A screenshot of the legacy tool's Plan Results page](/static/img/mgov_old_plans.png)
 *A screenshot of the legacy tool's Plan Results page*
 
-Some of the **foundational issues we needed to resolve** in this rebuild were:
-- Outdated: was not built to be responsive, with all types and sizes of devices in mind
-- Poor UX: presented an overwhelming amount of information and cognitively overwhelmed the user and did not set up users for success with the forms they had to fill out 
-- Not performant: was not built with performance, security, and reliability as a priority
+From our user surveys, usability testing, and meeting with customer service representatives some of the **foundational issues we needed to resolve** were:
+- Build the application to be responsive with all sizes of devices and types of users in mind
+- Reduce cognitive load and present information to the user only as they need it
+- Prioritize site accessibility, performance, and security. (Three things designers tend to forget about but improve UX dramatically.)
 
-At the core of our design approach, the **big questions we returned to were**:
-What can we deliver as an MVP to provide the most impact in the shortest amount of time? Tangentially, what iterations over time can we deliver to continue improving based on user feedback? Continuing to resurface these allowed us to reflect on, and refine, our UX roadmap to iterate on the product.
-
-**Overall Goal:** Improve the flow of finding and purchasing a healthcare plan by reducing friction and cognitive load for users. 
-
-To acheive this goal we need to reconsider the IA of the flow when a user searches for plans available to them and begins to tease out the best plan for their situation.
+Working iteratively our approach was: **What can we deliver as an MVP to provide the most impact in the shortest amount of time?** Then we would continue to resurface the user pain points and business objectives to ensure we were staying aligned.
 
 ![Six stages of the design process: Empathize, Define, Ideate, Prototype, Test, Implement.](/static/img/process.png)
 *Six stages of the design process: Empathize, Define, Ideate, Prototype, Test, Implement.*
 
 ## The Work
-Gathering insight from Medicare beneficiaries, customer service reps, and state-sponsored support agencies we were awash with data into how people used, signed up for, and accessed their Medicare services. Through our usability sessions during Open Enrollment we saw how people used Medicare.gov and how they struggled. With this info we explored the highest impact changes we could make to improve the tool. 
+Gathering insight from Medicare beneficiaries, customer service reps, and state-sponsored support agencies we were awash with data into how people used, signed up for, and accessed their Medicare services. Through our usability sessions identified key pain points that would provide the highest impact to the users of the application. 
 
 ![A screenshot from a Mural board at a collaborative workshop session with stakeholders. High fidelity mockups and sticky notes are prevalent.](/static/img/mgov_collab.png)
 *A screenshot from a Mural board at a collaborative workshop session with stakeholders. High fidelity mockups and sticky notes are prevalent.*
