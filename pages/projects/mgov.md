@@ -14,9 +14,9 @@ permalink: /projects/mgov.html
 
 ## The Challenge
 
-Nearly 15% of Americans are currently enrolled in Medicare and that number is expected to double over the next decade. As this group grows and more people rely on technology to help them access and enroll in government services, it is crucial that reliable and accessible access to these digital services meets their needs.
+The process of shopping for, and enrolling in, a Medicare plan is an intimidating journey due to the weight of the beneficiary's decision which affects their health and drug coverage &mdash; but also due to the incredible amount of info about options and services that flood Medicare beneficiaries every year. 
 
-The process of shopping for and enrolling in a Medicare plan is an intimidating journey due to the importance of the beneficiary's decision which affects their health and drug coverage &mdash; but also due to the incredible amount of data about options and services that flood Medicare beneficiaries every year. Compounding this overwhelming time for millions of Americans is the fact that the legacy app used to sign up for healthcare was cognitively overwhelming and not mobile-friendly. 
+Compounding this overwhelming time for millions of Americans was the fact that the legacy app used to sign up for a Medicare plan was cognitively overwhelming, not intuitive, and not mobile-friendly. 
 
 ![A screenshot of the legacy tool's Plan Results page](/static/img/mgov_old_plans.png)
 *A screenshot of the legacy tool's Plan Results page*
