@@ -78,7 +78,7 @@ The legacy app's plan results designs were honestly a low bar to improve upon. U
 
  
 
-## What we accomplished
+## Engagement and customer happiness
 
 Since CMS launched the redesigned [Medicare Plan Finder](https://www.medicare.gov/plan-compare/#/?year=2022&lang=en), the tool:
 - Has helped **more than 2.6 million Medicare beneficiaries** enroll in a Medicare plan, about 40% more enrollments than the legacy tool the previous year
