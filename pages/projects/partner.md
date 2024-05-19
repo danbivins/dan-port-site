@@ -67,5 +67,10 @@ While I can't show the final app for NDA reasons, below are early prototypes I d
 
 By providing an open access to community offerings, we were able to allow the incarcerated and formerly incarcerated the highest chances of success. 
 
+### Data to monitor
+To measure success the teams must monitor:
+- Task Success: the number of inmates signing up for services through the app
+- Engagement and happiness: provide surveys and conduct interviews with inmates, prison staff, and community organizations to understand positive and negative points of the app.
+
 
 [Next project](/projects/mgov)
