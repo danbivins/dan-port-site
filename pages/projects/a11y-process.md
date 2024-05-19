@@ -76,9 +76,9 @@ Shifting conversations about a11y as early as possible within the delivery proce
 
 Below shows typical a11y annotation notes featuring considerations for the user experience of assistive tech users.
 
-![A screenshot of a mockup with HTML annotation notes](/static/img/ux-ann2a.jpg)
-![A screenshot of a mockup with screen reader UX annotation notes](/static/img/ux-ann2b.jpg)
-![A screenshot of a mockup with focus order annotation notes](/static/img/ux-ann2c.jpg)
+![A screenshot of a mockup with HTML annotation notes](/static/img/ux-ann2a.png)
+![A screenshot of a mockup with screen reader UX annotation notes](/static/img/ux-ann2b.png)
+![A screenshot of a mockup with focus order annotation notes](/static/img/ux-ann2c.png)
 
 Of all the steps mentioned here, in my experience this step is one of the more time-intensive. Designers tend not to have much understanding of how their designs translate to code so this is a great opportunity to teach them about the basics of HTML like the importance of proper use of headings, lists, links vs. buttons, etc. After walking them through how to put together these annotations, I've found that designers get excited when they begin making these connections and are usually off to running on their own in no time. 
 
