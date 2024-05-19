@@ -1,11 +1,11 @@
 ---
 title: Reviving the Medicare Plan Search and Enroll Experience
-metaDescription: Projects of Dan Bivins
+metaDescription: Projects of Dan Bivins - Dan Bivins
 date: 2023-01-01T00:00:00.000Z
 permalink: /projects/mgov.html
 # eleventyNavigation:
-#   key: About
-#   order: 1
+#   key: Medicare redesign
+#   order: 2
 ---
 
 ## My role

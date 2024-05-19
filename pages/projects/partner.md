@@ -1,10 +1,10 @@
 ---
-title: Providing a path forward for the former incarcerated
-metaDescription: Projects of Dan Bivins
+title: Providing a path forward for the formerly incarcerated
+metaDescription: Community resources app - Dan Bivins
 date: 2023-01-01T00:00:00.000Z
 permalink: /projects/partner.html
 # eleventyNavigation:
-#   key: About
+#   key: Community resources app
 #   order: 1
 ---
 
