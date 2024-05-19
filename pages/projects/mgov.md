@@ -56,8 +56,8 @@ Repeatedly in user testing our users noted that the redesign was a huge improvem
 
 #### Key design points of pharmacy search redesign
 - Allow users to filter results, reducing cognitive load and making it easier to find relevant info
-- Allow users to "add pharmacies" to their logged-in experince so they could receive more accurate drug pricing
-- Cleaner use of heirarchy, typography, and white space to allow the content to breathe and reduce visual and cognitive load
+- Allow users to "add pharmacies" to their logged-in experience so they could receive more accurate drug pricing
+- Cleaner use of hierarchy, typography, and white space to allow the content to breathe and reduce visual and cognitive load
 - Display a map view for contextual setting and alternative method of viewing the data
 ![The redesigned pharmacy search experience.](/static/img/mgov_PharmacySelection.png)
 
@@ -66,7 +66,7 @@ Repeatedly in user testing our users noted that the redesign was a huge improvem
 The legacy app's plan results designs were honestly a low bar to improve upon. Utilizing our design system, we were able to leverage modern design patterns quickly to solve problems. 
 
 #### Key design points of the plan results page
-- Provide users with a simpler and clearer presentation of the data using improved heirarchy of typography, white space, and grouping of data. 
+- Provide users with a simpler and clearer presentation of the data using improved hierarchy of typography, white space, and grouping of data. 
 - Provide users with sufficient info, at this point in their search, so as not to overwhelm them yet display relevant info for their healthcare search.
 - An accessible and usable mobile experience.
 

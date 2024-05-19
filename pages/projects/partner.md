@@ -25,7 +25,7 @@ Reducing recidivism is a complex and varied problem. Without a community support
 - Staff oversight of the activities and communications of inmates.
 
 ## The Work
-- Our, small cross-functional team collaborated with the client plus former inmates to better understand the needs and requirements. 
+- Our small cross-functional team collaborated with the client plus former inmates to better understand the needs and requirements. 
 - I mapped needs and pain points of various user types to understand how those users related to each other.
 - We identified data constraints and technical requirements such as data updates and wifi access within the prison system and how those variables affected the UX.
 - We created mockups and clickable prototypes
@@ -40,14 +40,14 @@ Reducing recidivism is a complex and varied problem. Without a community support
 ### Component-based Design
 A key focus of the UI design was to use modular and responsive components and patterns to create **cohesive, consistent experiences**. This would also have the benefit of **speeding up our team’s workflow and delivery**. Think of Brad Frost's "Atomic Design" principles for this.
 
-Using Figma we built out a system of components that accounted for the dynamic nature of content, use cases, and system access. Below shows this type of thinking where our card component needed to be flexible depending on a few different views and use cases. Using slighty different card layouts and responsive behavior we acheived a flexible solution. 
+Using Figma we built out a system of components that accounted for the dynamic nature of content, use cases, and system access. Below shows this type of thinking where our card component needed to be flexible depending on a few different views and use cases. Using slighly different card layouts and responsive behavior we achieved a flexible solution. 
 
 ![Components in Figma for our consistent and modular experience.](/static/img/sec1-crop.png)
 *Flexible and responsive components designed in Figma to allow for different use cases and data.*
 
 ### Accessibility and Performance
 Another critical point was the need for the design to be **accessible, flexible, and performant**. Many who are incarcerated would be accessing the app on devices with less than optimal operating systems and internet access. So the app must 
-- accomodate for the constraints that these phones and tablets provided by making lightweight and responsive designs. Usability over visual beauty.
+- accommodate for the constraints that these phones and tablets provided by making lightweight and responsive designs. Usability over visual beauty.
 - be cognitively intuitive to use even for less tech-savvy individuals
 - be designed with low-vision users in mind
 
@@ -65,7 +65,7 @@ While I can't show the final app for NDA reasons, below are early prototypes I d
 ![Various states of a user looking for, filtering, and signing up for a program.](/static/img/sec8.jpg)
 *Various states of a user looking for, filtering, and signing up for a program.*
 
-By providing an open access to community offerings, we were able to allow the incarcerated and formerly incarcerated the highest chances of success. 
+By providing open access to community offerings, we were able to allow the incarcerated and formerly incarcerated the highest chances of success. 
 
 ### Data to monitor
 To measure success the teams must monitor:

@@ -13,11 +13,11 @@ permalink: /projects/a11y-process.html
 - Accessibility Specialist
 
 ## Background
-This project has the client's name and other identifiers removed in accordance with an NDA. The purpose of this case study is to show the types of accesibility (a11y) work I do.
+This project has the client's name and other identifiers removed in accordance with an NDA. The purpose of this case study is to show the types of accessibility (a11y) work I do.
 
 ## Building an a11y process and practice
 
-In the large cross-role teams that I work wtih it is most commoon for teams to have a lack of process and foundational education. This tends to exhibit itself in these ways: 
+In the large cross-role teams that I work with it is most common for teams to have a lack of process and foundational education. This tends to exhibit itself in these ways: 
 - Product: has little understanding of how a11y fits into delivery and how their role should be involved. This leads to no understanding of how to advocate for a11y to stakeholders.
 Engineering: inconsistent, or absence of, guidance on testing and “definition done” which creates uncertainty and poor quality work.
 - UX: no process of a11y annotations and handoff to engineering which causes churn, tech debt, and poor user experience.
@@ -72,7 +72,7 @@ Don’t only report what’s wrong. Provide suggestions of how to remedy. Using 
 ![Shoutouts in Slack from teammates thanking Dan for clear remediation guidance and code examples](/static/img/eng-4.jpg)
 
 ### Pairing up with and supporting UX
-Shifting conversattions about a11y as early as possible within the delivery process is key. Getting UX'ers to consider, in the conceptual design and early mockup phase, how their decisions affect those who use assistive tech is always a huge win. This always results in less bugs once designs are in code and, god forbid, in production. 
+Shifting conversations about a11y as early as possible within the delivery process is key. Getting UX'ers to consider, in the conceptual design and early mockup phase, how their decisions affect those who use assistive tech is always a huge win. This guarantees less bugs once designs are in code and in production. 
 
 Below shows typical a11y annotation notes featuring considerations for the user experience of assistive tech users.
 
@@ -80,4 +80,26 @@ Below shows typical a11y annotation notes featuring considerations for the user 
 ![A screenshot of a mockup with screen reader UX annotation notes](/static/img/ux-ann2b.jpg)
 ![A screenshot of a mockup with focus order annotation notes](/static/img/ux-ann2c.jpg)
 
-In my experience this step is one of the more arduous of the steps mentioned here. Designers tend not to have much understanding of how their designs translate to code. This is a great opportunity to teach them about the basics of HTML like the importance of proper user of headings, lists, links vs. buttons, etc. After walking them through how to put together these annotations, I've found that designers get excited when they begin making these connections and are usually off to running on their own in no time. 
+Of all the steps mentioned here, in my experience this step is one of the more time-intensive. Designers tend not to have much understanding of how their designs translate to code so this is a great opportunity to teach them about the basics of HTML like the importance of proper use of headings, lists, links vs. buttons, etc. After walking them through how to put together these annotations, I've found that designers get excited when they begin making these connections and are usually off to running on their own in no time. 
+
+These annotations benefit teams in these ways:
+- UX can now hand off designs with concrete guidelines, removing guesswork about interactions from engineers
+- It provides criteria for UX, Product, and QA to test against 
+- As mentioned above, it is an educational opportunity for designers
+
+## Wrapping up
+
+One of the primary responsibilities of an Accessibility Specialist is to **decentralize accessibility**. 
+- Encourage teams to take ownership of the quality of their work.
+- Scale a11y literacy and reach through formal and organic opportunites for education.
+- Emphasize alertness rather than mastery and progress over perfection. The more teammates we have paying attention the user experience of **all people** then the better quality of products we'll deliver.
+
+These steps will result in a reduction in the bugs making it to production and the time it takes to fix a11y bugs. 
+
+![A dashboard showing a drastic decline of a11y bugs](/static/img/a11y-bugs-dashboard.jpg)
+
+And stakeholders will get excited when they know you're delivering quality code and experiences. 
+![A shoutout in Slack from a Project Manager about how happy a client is on the quality of delivery](/static/img/a11y-cin-sh.jpg)
+
+
+
