@@ -87,19 +87,20 @@ These annotations benefit teams in these ways:
 - It provides criteria for UX, Product, and QA to test against 
 - As mentioned above, it is an educational opportunity for designers
 
-## Wrapping up
-
-One of the primary responsibilities of an Accessibility Specialist is to **decentralize accessibility**. 
-- Encourage teams to take ownership of the quality of their work.
-- Scale a11y literacy and reach through formal and organic opportunites for education.
-- Emphasize alertness rather than mastery and progress over perfection. The more teammates we have paying attention the user experience of **all people** then the better quality of products we'll deliver.
-
-These steps will result in a reduction in the bugs making it to production and the time it takes to fix a11y bugs. 
+## Impact 
+These steps will result in a reduction in the bugs making it to production and the time it takes to fix a11y bugs. Below is a screenshot of our a11y bug tracking dashboard over this year of work. The average time of an open bug ticket has been reduced by more than half. 
 
 ![A dashboard showing a drastic decline of a11y bugs](/static/img/a11y-bugs-dashboard.jpg)
 
 And stakeholders will get excited when they know you're delivering quality code and experiences. 
 ![A shoutout in Slack from a Project Manager about how happy a client is on the quality of delivery](/static/img/a11y-cin-sh.jpg)
+
+## Wrapping up
+One of the primary responsibilities of an Accessibility Specialist is to **decentralize accessibility**. 
+- Encourage teams to take ownership of the quality of their work.
+- Scale a11y literacy and reach through formal and organic opportunites for education.
+- Emphasize alertness rather than mastery and progress over perfection. The more teammates we have paying attention the user experience of **all people** then the better quality of products we'll deliver.
+
 
 
 
