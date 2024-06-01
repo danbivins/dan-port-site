@@ -172,6 +172,8 @@ header nav li a[data-current="current item"] {
 }
 
 .logo img {
+	border: none;
+	border-radius: 0;
 	margin: 0;
 }
 
