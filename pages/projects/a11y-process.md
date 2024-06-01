@@ -86,9 +86,9 @@ These annotations benefit teams in these ways:
 - As mentioned above, it is an educational opportunity for designers
 
 ## Impact 
-These steps will result in a reduction in the bugs making it to production and the time it takes to fix a11y bugs. Below is a screenshot of our a11y bug tracking dashboard over this year of work. The average time of an open bug ticket has been reduced by more than half. 
+These steps will result in a reduction in the bugs making it to production and the time it takes to fix a11y bugs. Below is a screenshot of our a11y bug tracking dashboard over this year of work. The average time of an open accessibility bug ticket has been reduced by more than half. 
 
-![A dashboard showing a drastic decline of a11y bugs](/static/img/a11y-bugs-dashboard.jpg)
+![A dashboard showing a more than 50% decline of accessibility bugs](/static/img/a11y-bugs-dashboard.jpg)
 
 And stakeholders will get excited when they know you're delivering quality code and experiences. 
 ![A shoutout in Slack from a Project Manager about how happy a client is on the quality of delivery](/static/img/a11y-cin-sh.jpg)
