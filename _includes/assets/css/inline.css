@@ -125,13 +125,13 @@ blockquote {
 }
 
 /* Header Logo (style as h2) */
-header > em {
+/* header > em {
 	display: block;
 	font-size: 2em;
 	margin: .67em 0;
 	font-weight: bold;
 	font-style: normal;
-}
+} */
 
 /* Header Nav */
 header nav ul {
@@ -167,10 +167,12 @@ header nav li a[data-current="current item"] {
 
 .logo {
 	text-decoration: none;
+	width: 3rem;
+ 	height: 3rem;
 }
 
-.logo:hover {
-	text-decoration: underline;
+.logo img {
+	margin: 0;
 }
 
 /* Posts List */
