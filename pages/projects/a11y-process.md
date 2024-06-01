@@ -30,14 +30,12 @@ Designers, engineers, and product folks all tend to benefit from further educati
 - ensure that engineering tickets have a clear definition of done regarding a11y
 - how to talk to stakeholders about prioritizing a11y tickets against competing priorities
 
-![Product Leads getting excited about connecting their day to day work to accessibility](/static/img/prod-1.jpg)
-*Product Leads getting excited about connecting their day to day work to accessibility*
+![Product Leads getting excited about connecting their day to day work to accessibility](/static/img/prod-1.jpg) *Product Leads getting excited about connecting their day to day work to accessibility*
 
 #### Issue-tracking dashboards per team
 Providing simple and clear reporting to our teams and stakeholders is another key win. Being able to provide Product teams with relevant dashboards that display the state of a11y health at a glance. This is also a useful tool in talking to stakeholders about prioritization.
 
-![Product Leads getting excited about connecting their day to day work to accessibility](/static/img/prod-2.jpg)
-*Product Leads getting excited about connecting their day to day work to accessibility*
+![Product Leads getting excited about connecting their day to day work to accessibility](/static/img/prod-2.jpg) *Product Leads getting excited about connecting their day to day work to accessibility*
 
 #### Educate and provide guidance for consistency
 Understanding where "a11y fits within delivery" has been a key point for all roles, but especially Product-led teams. Below is a screenshot of a visual flow I put together to help teams understand where points of contact are within the formal a11y process.

@@ -18,8 +18,7 @@ The process of shopping for, and enrolling in, a Medicare plan is an intimidatin
 
 Compounding this overwhelming time for millions of Americans was the fact that the legacy app used to sign up for a Medicare plan was cognitively overwhelming, not intuitive, and not mobile-friendly. 
 
-![A screenshot of the legacy tool's Plan Results page](/static/img/mgov_old_plans.png)
-*A screenshot of the legacy tool's Plan Results page*
+![A screenshot of the legacy tool's Plan Results page](/static/img/mgov_old_plans.png) *A screenshot of the legacy tool's Plan Results page*
 
 ## Planning and Research
 
@@ -36,13 +35,11 @@ Working iteratively our approach was: **What can we deliver as an MVP to provide
 ## The Work
 Gathering insight from Medicare beneficiaries, customer service reps, and state-sponsored support agencies we were awash with data into how people used, signed up for, and accessed their Medicare services. Through our usability sessions identified key pain points that would provide the highest impact to the users of the application. 
 
-![A screenshot from a Mural board at a collaborative workshop session with stakeholders. High fidelity mockups and sticky notes are prevalent.](/static/img/mgov_collab.png)
-*A screenshot from a Mural board at a collaborative workshop session with stakeholders. High fidelity mockups and sticky notes are prevalent.*
+![A screenshot from a Mural board at a collaborative workshop session with stakeholders. High fidelity mockups and sticky notes are prevalent.](/static/img/mgov_collab.png) *A screenshot from a Mural board at a collaborative workshop session with stakeholders. High fidelity mockups and sticky notes are prevalent.*
 
 Our cross-functional team organized workshops with diverse stakeholders around balancing the user improvements, policy needs, and technical feasibility. A real key to this step of the process was listening to call center representatives. These "boots on the ground" workers were able to provide us with a wealth of information that they hear every day from users who call with a myriad of questions and issues while trying to sign up for a plan.
 
-![A service map I created to better understand and share the touchpoints with our user base.](/static/img/service-map.jpg)
-*A service map I created to better understand the touchpoints with our user base. This continued to be revised with the more we learned.*
+![A service map I created to better understand and share the touchpoints with our user base.](/static/img/service-map.jpg) *A service map I created to better understand the touchpoints with our user base. This continued to be revised with the more we learned.*
 
 ### Our core features of focus
 
@@ -75,9 +72,7 @@ The legacy app's plan results designs were honestly a low bar to improve upon. U
 ![The redesigned Plan Results page.](/static/img/results1.png)
 ![The redesigned Plan Results on desktop, showing the filters being used .](/static/img/results2.png)
 
-![The redesigned Plan Results on mobile experience.](/static/img/results-tablet.png){.img-mobile}
-*The redesigned Plan Results on mobile experience*
-
+![The redesigned Plan Results on mobile experience.](/static/img/results-tablet.png){.img-mobile} *The redesigned Plan Results on mobile experience*
  
 
 ## What we accomplished
