@@ -21,6 +21,8 @@ Compounding this overwhelming time for millions of Americans was the fact that t
 ![A screenshot of the legacy tool's Plan Results page](/static/img/mgov_old_plans.png)
 *A screenshot of the legacy tool's Plan Results page*
 
+## Planning and Research
+
 From our user surveys, usability testing, and meeting with customer service representatives some of the **foundational issues we needed to resolve** were:
 - Build the application to be responsive with all sizes of devices and types of users in mind
 - Reduce cognitive load and present information to the user only as they need it
