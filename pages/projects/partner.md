@@ -31,19 +31,16 @@ Reducing recidivism is a complex and varied problem. Without a community support
 - We created mockups and clickable prototypes
 - We iterated based on more client and inmate feedback
 
-![A rough draft of a user flow to help think through how people who are incarcerated may use the tool.](/static/img/cc_roles.png)
-*An early draft of a user flow to help think through how people who are incarcerated may use the tool. Note that there were several user types to be accounted for and shown here is just one.*
+![A rough draft of a user flow to help think through how people who are incarcerated may use the tool.](/static/img/cc_roles.png) *An early draft of a user flow to help think through how people who are incarcerated may use the tool. Note that there were several user types to be accounted for and shown here is just one.*
 
-![An early mapping of one level of admin's purpose and action within the tool.](/static/img/sec0.jpg)
-*An early mapping of one level of admin's proposed access within the tool.*
+![An early mapping of one level of admin's purpose and action within the tool.](/static/img/sec0.jpg) *An early mapping of one level of admin's proposed access within the tool.*
 
 ### Component-based Design
 A key focus of the UI design was to use modular and responsive components and patterns to create **cohesive, consistent experiences**. This would also have the benefit of **speeding up our team’s workflow and delivery**. Think of Brad Frost's "Atomic Design" principles for this.
 
 Using Figma we built out a system of components that accounted for the dynamic nature of content, use cases, and system access. Below shows this type of thinking where our card component needed to be flexible depending on a few different views and use cases. Using slighly different card layouts and responsive behavior we achieved a flexible solution. 
 
-![Components in Figma for our consistent and modular experience.](/static/img/sec1-crop.png)
-*Flexible and responsive components designed in Figma to allow for different use cases and data.*
+![Components in Figma for our consistent and modular experience.](/static/img/sec1-crop.png) *Flexible and responsive components designed in Figma to allow for different use cases and data.*
 
 ### Accessibility and Performance
 Another critical point was the need for the design to be **accessible, flexible, and performant**. Many who are incarcerated would be accessing the app on devices with less than optimal operating systems and internet access. So the app must 
@@ -59,11 +56,9 @@ While I can't show the final app for NDA reasons, below are early prototypes I d
 *An early mockup, on desktop, showing program offerings for someone who is incarcerated.*
 ![An early mockup showing program offerings for someone who is incarcerated.](/static/img/program-detail.png)
 
-![An early mobile mockup showing program offerings (on the left) for someone who is incarcerated and a community program's listing (on the right).](/static/img/cc-mobile.jpg)
-*An early mobile mockup showing program offerings (on the left) for someone who is incarcerated and a community program's listing (on the right).*
+![An early mobile mockup showing program offerings (on the left) for someone who is incarcerated and a community program's listing (on the right).](/static/img/cc-mobile.jpg) *An early mobile mockup showing program offerings (on the left) for someone who is incarcerated and a community program's listing (on the right).*
 
-![Various states of a user looking for, filtering, and signing up for a program.](/static/img/sec8.jpg)
-*Various states of a user looking for, filtering, and signing up for a program.*
+![Various states of a user looking for, filtering, and signing up for a program.](/static/img/sec8.jpg) *Various states of a user looking for, filtering, and signing up for a program.*
 
 By providing open access to community offerings, we were able to allow the incarcerated and formerly incarcerated the highest chances of success. 
 
