@@ -171,5 +171,10 @@ permalink: /projects/partner.html
 </div>   
 </div>  
 
+### Data to monitor
+To measure success the teams must monitor:
+- Task Success: the number of inmates signing up for services through the app
+- Engagement and happiness: provide surveys and conduct interviews with inmates, prison staff, and community organizations to understand positive and negative points of the app.
+
 
 <!-- (Company name redacted) was tasked to **build a web app that would allow inmates to search and sign up for community services** &mdash; providing a conduit between the inmates and services within the community such as education, food banks, social workers, etc. Lastly, the prison staff and case workers need to have oversight of where those who are incarcerated may be at a certain time and which of these community offerings they are involved in.  -->
