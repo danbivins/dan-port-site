@@ -1,4 +1,5 @@
 ---
+layout: layouts/base.njk
 title: Resume
 metaDescription: Dan Bivins' Resume
 date: 2017-01-01T00:00:00.000Z
@@ -8,6 +9,7 @@ eleventyNavigation:
   order: 4
 ---
 
+<div class="case-study-body">
 
 ## General Work History
 ### Ad Hoc, LLC 
