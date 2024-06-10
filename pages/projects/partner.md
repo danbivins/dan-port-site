@@ -29,7 +29,7 @@ permalink: /projects/partner.html
                             <p>Overview</p>
                         </div>
                     </div>
-                    <div class="case-study-problem">
+                    <div class="flex">
                         <div>
                             <h3>Problem</h3>
                             <p class="process-main-text">How might we support inmates through providing access to community services?</p>

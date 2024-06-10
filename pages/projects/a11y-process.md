@@ -28,7 +28,7 @@ permalink: /projects/a11y-process.html
                             <p>Overview</p>
                         </div>
                     </div>
-                    <div class="case-study-problem">
+                    <div class="flex">
                         <div>
                             <h3>Problem</h3>
                             <p class="process-main-text">Build an accessibility program across 8 existing product teams. Fix low-hanging fruit first and then work towards maturity.</p>
