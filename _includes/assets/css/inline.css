@@ -243,6 +243,10 @@ strong {
 	background: #ffff89a8;;
   }
 
+.bold {
+	font-weight: bold;
+}
+
 /* Contact Form */
 form {
   display: grid;
@@ -363,15 +367,19 @@ em {
 }
 
 .proj-a11y{
-	background-color: #daf5ff;
+	background-color: #E1F5FE;
 }
 
 .proj-mgov{
-	background-color: #dff2f0;
+	background-color: #E0F2F1;
 }
 
 .proj-cc{
-	background-color: #f6f7f9;
+	background-color: #EFEBE9;
+}
+
+.proj-jz {
+	background-color: #EDE7F6;
 }
 
 .study-info {
