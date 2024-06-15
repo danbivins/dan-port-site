@@ -13,29 +13,34 @@ eleventyNavigation:
 
 ## General Work History
 ### Ad Hoc, LLC 
-Staff UX Designer & Accessibility Specialist, (April 2022 – May 2024)
+Staff UX Designer & Accessibility Specialist, (January 2019 – May 2024)
 
-As the Accessibility Specialist on the healthcare.gov team, I led the accessibility program that works with 8 product teams. During the three months of open enrollment alone, we provide equitable and inclusive experiences for almost 16 million application submissions.
+I served as the Accessibility lead, where my work to build a robust A11y program across 8 product teams <span class="bold">reduced the time to fix A11y bugs by over 50%</span>. We also improved the user experience and reduced the number of bugs shipped by adding design reviews to the delivery process. I also led the A11y initiative to receive the <span class="bold">first-ever perfect score for a .gov platform</span> tested by the Section 508 Office at the Department of Health & Human Services. Some of my duties to provide inclusive experiences to millions of Americans were: 
 
-Collaborated cross-functionally to perform design reviews, code reviews, provide guidance on remediation, etc. All this was done while performing large-scale manual a11y audits and working to improve processes with teams and specific roles to improve the quality of work delivered.
-
-### Ad Hoc, LLC 
-Senior UX Designer II & Accessibility Specialist, (Jan. 2019 – April 2022)
-
-As the Design Lead on my team working on medicare.gov, my responsibilities included partnering with cross-functional teams (Product, Research, Engineering) to understand the needs of users, policy makers, and business; managing a strategic vision for the UX team (team principles, directions, etc); presented design decisions to key stakeholders; mentoring fellow UX Designers. 
-
-As the Accessibility Lead on a small team to perform testing, documentation, and remediation of 100+ issues for a relaunch of medicare.gov. This resulted in the first ever perfect score for a .gov application when tested by the Section 508 Office at CMS/HHS. 
+<ul>
+  <li>Collaborate with designers to ensure accessibility from the ground up.</li>
+  <li>Pair with engineers to review code and guide remediation.</li>
+  <li>Collaborate with the design system team to design, develop, and provide documentation for accessible components.</li>
+  <li>Manual testing with various screen readers and keyboard-only navigation</li>
+  <li>Provide educational training across roles and look for ways to scale knowledge.</li>
+</ul>
 
 ### Jenzabar, Inc.
 UX Designer & UI Developer, Nov. 2017 – May 2018
 
-Partnered with a cross-functional team of product managers, developers, and designers to build out a design system and pattern library for this large, enterprise organization. Building this set of modular, responsive, and accessible components we helped to provide a more consistent user, and developer, experience while drastically improving the time it takes to ship code.
+I was part of a cross-functional design system team that partnered with product managers, developers, and designers to design and code a design system for enterprise EdTech software. Building this set of responsive and accessible components <span class="bold">reduced the time it takes to ship code by more than 25%</span>. My responsibilities included:
+<ul>
+  <li>Creating accessible designs through mockups and interactive prototypes</li>
+  <li>Build components using HTML, CSS, and JavaScript..</li>
+  <li>Manually test components and patterns for 508 compliance and inclusive design.</li>
+  <li>Collaborate with Product and Design to roadmap new integrations.</li>
+</ul>
 
 ### Allianz Worldwide Partners
-Web Designer, Feb. 2016 – Nov. 2017
-
-Strategically drove design and development of impactful marketing sites, actively contributing to strategic planning and ensuring seamless execution aligned with lean-agile methodologies. Revamped Allianz corporate site for enhanced user experience, playing a key role in a collaborative team that successfully reimagined the Allianz corporate site, delivering a user-centric, friendly, and mobile-first experience. 
-
-Contributed within a cross-functional team to the end-to-end design and development of a brand new B2C product site. My role included crafting information architecture and mockups while collaborating with developers for seamless implementation.
-
-Led workshops to teach HTML/CSS to a six-person class of Allianz designers.
+Web Designer and Developer, Feb. 2016 – Nov. 2017
+<ul>
+  <li>Worked closely with various roles to align and prioritize business objectives and user needs, ensuring a cohesive approach to project execution.</li>
+  <li>Build components using HTML, CSS, and JavaScript..</li>
+  <li>Designed accessible experiences for colleges and universities, focusing on optimizing user engagement and meeting institutional goals.</li>
+  <li>Developed websites using semantic HTML and CSS</li>
+</ul>
