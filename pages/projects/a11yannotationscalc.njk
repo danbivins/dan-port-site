@@ -1,0 +1,141 @@
+---
+layout: layouts/base.njk
+title: A11y Annotatiions for interactive experience
+metaDescription: Going beyond 508 compliance to provide a truly usable inclusive interactive experience. - Dan Bivins
+date: 2024-01-01T00:00:00.000Z
+permalink: /projects/a11yannotationscalc.html
+# eleventyNavigation:
+#   key: Design System
+#   order: 5
+---
+
+<div class="case-study-content">
+    <div class="case-study-content-inner">
+        <div id="overview" class="case-study-body">
+            <div class="case-info">
+                <div class="case-study-info left-info">
+                    <div class="section-header-container about">
+                        <div class="section-header">
+                            <p>Project</p>
+                            <p>005</p>
+                        </div>
+                    </div>
+                    <h2 class="proj-name">A11y Design Annotations</h2>
+                    <h2 class="proj-desc">Collaborating with UX'ers to go beyond 508 compliance and provide a truly usable inclusive experience.</h2>
+                    <div class="section-header-container about">
+                        <div class="section-header">
+                            <p>Overview</p>
+                        </div>
+                    </div>
+                    <div class="flex">
+                        <div>
+                            <h3>Problem</h3>
+                            <p class="process-main-text">How can we provide the same experience for screen reader users in this calculation pattern?</p>
+                        </div>
+                    <div>
+                        <h3>Outcome</h3>
+                        <p class="process-main-text">First, UX'ers gained knowledge on screen reader experiences. Second, we tested with native screen reader user who found this pattern helpful.</p>
+                    </div>
+                    
+                </div>
+                <div class="">
+                    <p>As noted in my <a href="a11y-process.html">A11y Process</a> study, UX'ers on this team were not creating A11y Design Annotatiions. It is crucial to remind UX teams that <span class="bold">"UX" doesn't just refer to just the user experience sighted users or users who use a mouse</span>, etc. By not using A11y annotations there are three issues:</p>
+                    <ul>
+                        <li>UX lacked the knowledge and awareness of the experience of a screen reader user.</li>
+                        <li>Decisions about A11y were left up to Engineers for them to decipher design intentions and experience outcomes.</li>
+                        <li>There was no artifact to QA against, no A11y acceptance criteria.</li>
+                    </ul>
+                    </p>
+                </div>
+            </div>
+        <div class="case-study-info right-info">
+            <div class="section-header-container about">
+                <div class="section-header">
+                    <p>Info</p>
+                </div>
+            </div>
+            <div class="case-study-info-right-group">
+                <div>
+                    <h3>Role</h3>
+                    <p class="case-info-right-text">Accessibility Specialist</p>
+                </div>
+            </div>
+            <div>
+                <h3>Tools</h3>
+                <p class="case-info-right-text">Figma</p>
+            </div>
+        </div>
+            
+        </div>
+    </div>
+</div>  
+
+<div id="overview" class="case-study-body">
+    <div class="section-header-container about">
+        <div class="section-header">
+            <h3>The work</h3> 
+        </div>
+    </div>
+    <p>The purpose of this screen is for <span class="bold">the user to enter income and expenses so that they can be notified if they may be eligible for financial assistance</span>. Here a live calculation is done of their income minus expenses. The total, final, amount is seen at the bottom. </p>
+    <p>This interaction can work for sighted users but screen reader users were not having the same experience &mdash; they were not getting that calculated number unless they read the page line by line each time. </p>
+    <div class="full-width light">
+        <img src="/static/img/timecard1a.png" alt="Visible focus is on the remove button." class="img-center flex">
+    </div> 
+
+    <div class="">
+        <p><span class="section-callout">General focus order</span></p>
+        <p>The typical focus order of tab stops follows an expected flow in this pattern. Nonetheless, I've learned to take a couple minutes and document this for Engineers and, again, it's also helpful as an exercise of awareness for Designers.</p>
+    </div>
+    <div class="full-width light">
+        <img src="/static/img/timecard3.png" alt="focus order is depicted with blue square shapes that contain focus order number inside. These shapes are on each tab stop." class="img-center flex">
+    </div> 
+
+    <div class="">
+        <p><span class="section-callout">Focus handling based on action</span></p>
+        <p><span class="bold">What happens when an item is removed? What happens when all the items are removed?</span> These are questions I walk through with UX to ensure we are considering the screen reader experience.</p>
+    </div>
+    <div class="full-width light">
+        <img src="/static/img/timecard2a.png" alt="Visible focus is on the remove button." class="img-center flex">
+    </div> 
+    <div class="full-width light">
+        <img src="/static/img/timecard2b.png" alt="Visible focus has been shifted to the 'Add more income button.'" class="img-center flex">
+    </div> 
+
+    <div class="">
+        <p><span class="section-callout">Screen reader annotations</span></p>
+        <p>We need to provide the updated calculation for non-sighted users too. After I created a coded prototype to test with against the major screen readers, I decided that an aria-live region on the entire component will suffice to provide the update for a screen reader user.  </p>
+        <p>When the total is updated, <span class="bold">the screen reader readout should be “{userName}’s total for {month} is {amount} dollars.”</span></p>
+    </div>
+    <div class="full-width light">
+        <img src="/static/img/timecard1b.png" alt="Visible focus has been shifted to the 'Add more income button.'" class="img-center flex">
+    </div> 
+    
+    <p>Next, we need to <span class="bold">provide context for the "Edit" and "Remove" buttons.</span> Otherwise a screen reader user may think "Edit what?" or "Remove what?"</p>
+    <p>We can do this easily by utilizing the aria-labelledby attribute. The directions to the Engineer were:</p>
+    <ol>
+        <li>Add a unique id to the container of the income amount and source.</li>
+        <li>Add a unique id to the “Edit” and “Remove” buttons.</li>
+        <li>Use the unique ids from the amount/source container and the edit/remove button's unique id to concatenate screen reader text.</li>
+    </ol>
+    <p>Text should read out like this for the edit button <span class="bold"> "Edit {amount} {category}"</span></p>
+    <div class="full-width light">
+        <img src="/static/img/timecard1c.png" alt="Visible focus has been shifted to the 'Add more income button.'" class="img-center flex">
+    </div> 
+</div>
+
+{# <div class="case-study-body">
+    <div class="section-header-container about">
+        <div class="section-header">
+            <h3>The Outcome</h3> 
+        </div>
+    </div>
+    <div class="">
+        <p><span class="section-callout">Components and patterns</span></p>
+        <p>Below are examples showing the component and pattern being used in various configurations.</p>
+        <p>As mentioned above, it is estimated that creating this modular and accessible component library <strong>reduced the time it took to ship code more than 25%</strong>. Of course, there is also the benefit to the end user of a more consistent user experience as all teams are pulling from the same pool of flexible components and patterns.</p>
+    </div>
+</div>
+<div class="full-width light">
+    <img src="/static/img/jz-meeting.png" alt="a simple form design for someone to set up a meeting with location, date, and time" class="img-center flex">
+</div>  #}
+ 
