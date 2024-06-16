@@ -371,7 +371,7 @@ em {
 }
 
 .proj-mgov{
-	background-color: #E0F2F1;
+	background-color: #C8E6C9;
 }
 
 .proj-cc{
@@ -379,7 +379,11 @@ em {
 }
 
 .proj-jz {
-	background-color: #EDE7F6;
+	background-color: #E0F7FA;
+}
+
+.proj-ann {
+	background-color: #FFF3E0;
 }
 
 .study-info {

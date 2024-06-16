@@ -53,7 +53,7 @@ permalink: /projects/partner.html
                     </div>
                     <div>
                         <h3>Timeline</h3>
-                        <p class="case-info-right-text">3 months</p>
+                        <p class="case-info-right-text">6 months</p>
                     </div>
                 </div>
                 <div>
