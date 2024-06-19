@@ -29,15 +29,15 @@ permalink: /projects/a11y-process.html
                         </div>
                     </div>
                     <div class="flex">
-                        <div>
+                        <div class="col-half">
                             <h3>Problem</h3>
                             <p class="process-main-text">Build an accessibility program across 8 existing product teams. Fix low-hanging fruit first and then work towards maturity.</p>
                         </div>
-                    <div>
-                        <h3>Outcome</h3>
-                        <p class="process-main-text">All UX, some Product, and all Engineering Leads completed <strong>Accessibility training</strong>. We reduced the average time of an open accessibility bug ticket <strong>by more than half</strong>.</p>
-                    </div>   
-                </div>
+                        <div class="col-half">
+                            <h3>Outcome</h3>
+                            <p class="process-main-text">All UX, Product and Engineering Leads completed <span class="bold">Accessibility training</span>. We also reduced the average time of an open accessibility bug ticket <span class="bold">by more than half</span>.</p>
+                        </div>   
+                    </div>
                 <p>Note: This project has the client's name and other identifiers removed in accordance with an NDA.</p>
             </div>
             <div class="case-study-info right-info">
@@ -76,9 +76,9 @@ permalink: /projects/a11y-process.html
             </div>
             <p>Failure in a11y education exhibits itself in these ways:</p>
                 <ul>
-                    <li>Product has little understanding of <strong>how a11y fits into delivery</strong> and how their role should be involved. </li>
-                    <li>Engineering has inconsistent, or no, guidance on <strong>testing and “definition done”</strong> which creates uncertainty and poor quality work.</li>
-                    <li>UX has no process of <strong>a11y annotations and handoff</strong> to engineering which causes churn, tech debt, and poor user experience.</li>
+                    <li>Product has little understanding of <span class="bold">how a11y fits into delivery</span> and how their role should be involved. </li>
+                    <li>Engineering has inconsistent, or no, guidance on <span class="bold">testing and “definition done”</span> which creates uncertainty and poor quality work.</li>
+                    <li>UX has no process of <span class="bold">a11y annotations and handoff</span> to engineering which causes churn, tech debt, and poor user experience.</li>
                 </ul>
             </div>
         </div>
@@ -121,7 +121,7 @@ permalink: /projects/a11y-process.html
             </div>
             <div class="bsc-2-grid">
                 <p><span class="section-callout">Issue-tracking dashboards per team</span></p>
-                <p>Providing simple and clear reporting to teams and stakeholders is another key win. Being able to provide Product teams with relevant dashboards that display the <strong>state of a11y health at a glance</strong>. This is also a useful tool in talking to stakeholders about prioritization.</p>
+                <p>Providing simple and clear reporting to teams and stakeholders is another key win. Being able to provide Product teams with relevant dashboards that display the <span class="bold">state of a11y health at a glance</span>. This is also a useful tool in talking to stakeholders about prioritization.</p>
             </div>
         </div>
         <div class="full-width light">
@@ -142,7 +142,7 @@ permalink: /projects/a11y-process.html
             </div>
             <h4><span class="section-callout">Provide guidance and clarity to Engineering</span></h4>
             <p>Most engineers I've worked with want to build and test for a11y before submitting a pull request but they are unsure exactly how to test and what criteria they should test against.</p>
-            <p><strong>Utilizing design systems to scale a11y</strong> across multiple teams and organizations is a no-brainer. A11y knowledge, components, and patterns are now exponentially useful.</p>
+            <p><span class="bold">Utilizing design systems to scale a11y</span> across multiple teams and organizations is a no-brainer. A11y knowledge, components, and patterns are now exponentially useful.</p>
         </div>
         <div class="full-width">
             <div class="flex-thirds flex">
@@ -151,7 +151,7 @@ permalink: /projects/a11y-process.html
                 </div>
                 <div class="col">
                     <p class="project-heading">Testing guidance</p>
-                    <p class="project-paragraph">Contributing testing guidance to the design system gave teams the ability to test with a keyboard and screen reader. <strong>This removes any excuse of "I didn't know how to test" when a pull request occurs. Doing this encourages responsibility and ownership.</strong></p>
+                    <p class="project-paragraph">Contributing testing guidance to the design system gave teams the ability to test with a keyboard and screen reader. <span class="bold">This removes any excuse of "I didn't know how to test" when a pull request occurs. Doing this encourages responsibility and ownership.</span></p>
                 </div>
             </div>
         </div>
@@ -176,9 +176,9 @@ permalink: /projects/a11y-process.html
             <p>Creating A11y Design Annotations gets UX'ers to consider early how their decisions affect assistive tech users.</p>
             <p>These annotations benefit teams in these ways:</p>
             <ul>
-                <li>UX can now hand off designs with concrete guidelines, <strong>removing guesswork</strong> about interactions from engineers
-                <li>It provides <strong>testing criteria</strong> for UX, Product, and QA</li>
-                <li>It is an <strong>educational opportunity</strong> for designers</li>
+                <li>UX can now hand off designs with concrete guidelines, <span class="bold">removing guesswork</span> about interactions from engineers
+                <li>It provides <span class="bold">testing criteria</span> for UX, Product, and QA</li>
+                <li>It is an <span class="bold">educational opportunity</span> for designers</li>
             </ul>
             <p>This is a great opportunity to teach them about the use of headings, lists, links vs. buttons, etc. in code. After walking them through how to put together these annotations, I've found that designers get excited when they begin making these design-to-code connections and are usually off to running on their own in no time. </p>
             <img class="" src="/static/img/ux-ann2a.png" alt="A screenshot of a mockup with HTML annotation notes">
@@ -188,11 +188,11 @@ permalink: /projects/a11y-process.html
         <div class="full-width">
         <div class="case-study-body">
             <h2>The Outcome </h2>
-            <p>These steps resulted in the average time of an open accessibility bug ticket has been <strong>reduced by more than half</strong> as seen in this dashboard below. </p>
+            <p>These steps resulted in the average time of an open accessibility bug ticket has been <span class="bold">reduced by more than half</span> as seen in this dashboard below. </p>
             <img class="" src="/static/img/a11y-bugs-dashboard.jpg" alt="A dashboard showing a more than 50% decline of accessibility bugs">
             <br>
             <div class="proj-img-callout">
-            <p>And client stakeholders will get excited when they know you're <strong>delivering quality code and experiences</strong>. </p>
+            <p>And client stakeholders will get excited when they know you're <span class="bold">delivering quality code and experiences</span>. </p>
             <img class="" src="/static/img/a11y-cin-sh.jpg" alt="A shoutout in Slack from a Project Manager about how happy a client is on the quality of delivery">
             </div>
         </div>

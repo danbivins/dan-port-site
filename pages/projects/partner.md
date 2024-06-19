@@ -30,11 +30,11 @@ permalink: /projects/partner.html
                         </div>
                     </div>
                     <div class="flex">
-                        <div>
+                        <div class="col-half">
                             <h3>Problem</h3>
                             <p class="process-main-text">How might we support inmates through providing access to community services?</p>
                         </div>
-                    <div>
+                    <div class="col-half">
                         <h3>Outcome</h3>
                         <p class="process-main-text">We designed and rebuilt an app allowing for inmates and community services to connect.</p>
                     </div>
