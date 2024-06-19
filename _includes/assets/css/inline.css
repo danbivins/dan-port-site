@@ -568,6 +568,11 @@ em {
 	margin: 1rem;
 }
 
+.col-half {
+	margin: 1rem 1rem 1rem 0;
+	width: 50%;
+}
+
 .flex-thirds .col:first-of-type {
 	width: 60%;
 }
