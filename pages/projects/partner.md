@@ -99,6 +99,7 @@ permalink: /projects/partner.html
     </div>
 </div>
         
+<div class="full-width">
 <div class="case-study-body">
     <div class="section-header-container about">
         <div class="section-header">
@@ -111,6 +112,7 @@ permalink: /projects/partner.html
         <li><span class="bold">Flexibility:</span> A flexible foundation for the community organizations to display their offered services.</li>
         <li><span class="bold">Personalization:</span> A personalized experience for inmates to view and manage their involvement with community partners.</li>
     </ul>
+</div>
 </div>
 <div class="case-study-body">
     <div class="section-header-container about">
