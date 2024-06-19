@@ -609,12 +609,17 @@ em {
 
 .img-center {
 	width: 100%;
-	margin: 0 auto;
+	margin: 1rem auto;
 	max-width: 900px;
 }
 
 .light {
 	background-color: var(--white);
+}
+
+.mock-vid {
+	border-radius: 16px;
+	margin: 1rem auto;
 }
 
 
