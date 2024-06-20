@@ -84,7 +84,7 @@ permalink: /projects/partner.html
             <img src="/static/img/cc_roles.png" alt="A rough draft of a user flow to help think through how people who are incarcerated may use the tool.">   
         </div>
         <div class="col">  
-            <h3>The full picture</h3>
+            <h3 class="project-heading">The full picture</h3>
             <p>One of the most difficult pieces to the discovery work was understanding the complexity of system permissions that were needed. Understanding these layers of access was key to success. Here is a rough draft of a user flow to help think through one persona's access.</p>
         </div>
     </div>
@@ -93,7 +93,7 @@ permalink: /projects/partner.html
             <img src="/static/img/sec0.jpg" alt="An early mapping of one level of admin's proposed access within the tool.">
         </div>
         <div class="col">  
-            <h3>Understanding touchpoints</h3>
+            <h3 class="project-heading">Understanding touchpoints</h3>
             <p>An early mapping of a case manager's touchpoints with the process of an inmate and community org's connection. This mapping would <span class="bold">iterate over time in conjunction with discovery through stakeholder workshops.</span></p>
         </div>
     </div>
@@ -148,13 +148,13 @@ permalink: /projects/partner.html
         </div>
     </div>
     <div class="bsc-2-grid">
-        <h4><span class="section-callout">Flexibility</span></h4>
+        <h4><span class="section-callout">Flexibility, modularity, &amp; reusability</span></h4>
         <div>
             <p>Using Figma we built out a system of components that accounted for the dynamic nature of content, use cases, and system access. This type of thinking for our card component needed to be flexible depending on a few different views and use cases. Using slighly different card layouts and responsive behavior we achieved a flexible solution. </p>
         </div>
     </div>
     </div>
-<div class="full-width">
+<div class="full-width light">
     <img class="img-center flex" src="/static/img/sec1-crop.png" alt="Components in Figma for our consistent and modular experience.">
 </div>
 </div>
