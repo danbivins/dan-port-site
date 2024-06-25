@@ -32,8 +32,8 @@ eleventyNavigation:
   <li>Partnered with a cross-functional team of product managers, developers, and designers to <span class="bold">design and code a design system for EdTech software and reduced the time it takes to ship code by more than 25%.</span></li>
   <li>Created accessible designs through mockups and interactive prototypes.</li>
   <li>Built components using HTML, CSS, and JavaScript.</li>
-  <li>Manually tested components and patterns for 508 compliance and inclusive design.</li>
-  <li>Collaborated with Product, Design, and Engineering to roadmap new integrations.</li>
+  <li>Manually tested components and patterns for <span class="bold">508 compliance and inclusive design.</span></li>
+  <li><span class="bold">Collaborated with Product, Design, and Engineering</span> to roadmap new integrations.</li>
 </ul>
 
 <h3 class="section-header"> Allianz Worldwide Partners</h3>
@@ -41,7 +41,7 @@ eleventyNavigation:
 <p>Web Designer and Developer, Feb. 2016 – Nov. 2017</p>
 <ul>
   <li>Worked closely with various roles to align and prioritize business objectives and user needs, ensuring a cohesive approach to project execution.</li>
-  <li>Build components using HTML, CSS, and JavaScript..</li>
-  <li>Designed accessible experiences for colleges and universities, focusing on optimizing user engagement and meeting institutional goals.</li>
+  <li>Build components using HTML, CSS, and JavaScript.</li>
+  <li><span class="bold">Designed accessible experiences for colleges and universities</span>, focusing on optimizing user engagement and meeting institutional goals.</li>
   <li>Developed websites using semantic HTML and CSS</li>
 </ul>
