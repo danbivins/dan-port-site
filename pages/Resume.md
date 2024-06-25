@@ -11,36 +11,37 @@ eleventyNavigation:
 
 <div class="case-study-body">
 
-## General Work History
-### Ad Hoc, LLC 
-Staff UX Designer & Accessibility Specialist, (January 2019 – May 2024)
-
-I served as the Accessibility lead, where my work to build a robust A11y program across 8 product teams <span class="bold">reduced the time to fix A11y bugs by over 50%</span>. We also improved the user experience and reduced the number of bugs shipped by adding design reviews to the delivery process. I also led the A11y initiative to receive the <span class="bold">first-ever perfect score for a .gov platform</span> tested by the Section 508 Office at the Department of Health & Human Services. Some of my duties to provide inclusive experiences to millions of Americans were: 
+<h2>General Work History</h2>
+<h3 class="section-header">Ad Hoc, LLC</h3> 
+<div class="case-study-body">
+<p>Staff UX Designer & Accessibility Specialist, (January 2019 – May 2024)</p>
 
 <ul>
-  <li>Collaborate with designers to ensure accessibility from the ground up.</li>
-  <li>Pair with engineers to review code and guide remediation.</li>
-  <li>Collaborate with the design system team to design, develop, and provide documentation for accessible components.</li>
-  <li>Manual testing with various screen readers and keyboard-only navigation</li>
-  <li>Provide educational training across roles and look for ways to scale knowledge.</li>
+  <li>Launched and managed an accessibility program for 8 product teams,  <span class="bold">reducing the time to fix A11y bugs by over 50%.</span></li>
+  <li>Led the A11y program on medicare.gov, receiving the  <span class="bold">first-ever perfect score</span> for a .gov platform tested by the Section 508 Office at the Dept. of HHS. </li>
+  <li>Redesigned medicare.gov in a small cross-role team, to be user-centric and <span class="bold">boosted enrollments by over 40%.</span></li>
+  <li>Partnered with the <a href="https://design.cms.gov" target="_blank">design system team</a> to design, develop, and provide documentation for accessible components.</li>
+  <li>Guided product, design, research, and engineering teams through A11y workshops and establishing guidelines and standards.</li>
 </ul>
+</div>
+<h3 class="section-header">Jenzabar, Inc.</h3>
+<div class="case-study-body">
+<p>UX Designer & UI Developer, Nov. 2017 – May 2018</p>
 
-### Jenzabar, Inc.
-UX Designer & UI Developer, Nov. 2017 – May 2018
-
-I was part of a cross-functional design system team that partnered with product managers, developers, and designers to design and code a design system for enterprise EdTech software. Building this set of responsive and accessible components <span class="bold">reduced the time it takes to ship code by more than 25%</span>. My responsibilities included:
 <ul>
-  <li>Creating accessible designs through mockups and interactive prototypes</li>
-  <li>Build components using HTML, CSS, and JavaScript..</li>
-  <li>Manually test components and patterns for 508 compliance and inclusive design.</li>
-  <li>Collaborate with Product and Design to roadmap new integrations.</li>
+  <li>Partnered with a cross-functional team of product managers, developers, and designers to <span class="bold">design and code a design system for EdTech software and reduced the time it takes to ship code by more than 25%.</span></li>
+  <li>Created accessible designs through mockups and interactive prototypes.</li>
+  <li>Built components using HTML, CSS, and JavaScript.</li>
+  <li>Manually tested components and patterns for <span class="bold">508 compliance and inclusive design.</span></li>
+  <li><span class="bold">Collaborated with Product, Design, and Engineering</span> to roadmap new integrations.</li>
 </ul>
 
-### Allianz Worldwide Partners
-Web Designer and Developer, Feb. 2016 – Nov. 2017
+<h3 class="section-header"> Allianz Worldwide Partners</h3>
+<div class="case-study-body">
+<p>Web Designer and Developer, Feb. 2016 – Nov. 2017</p>
 <ul>
   <li>Worked closely with various roles to align and prioritize business objectives and user needs, ensuring a cohesive approach to project execution.</li>
-  <li>Build components using HTML, CSS, and JavaScript..</li>
-  <li>Designed accessible experiences for colleges and universities, focusing on optimizing user engagement and meeting institutional goals.</li>
+  <li>Build components using HTML, CSS, and JavaScript.</li>
+  <li><span class="bold">Designed accessible experiences for colleges and universities</span>, focusing on optimizing user engagement and meeting institutional goals.</li>
   <li>Developed websites using semantic HTML and CSS</li>
 </ul>
