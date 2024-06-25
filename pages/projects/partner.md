@@ -23,44 +23,44 @@ permalink: /projects/partner.html
                     </div>
                     <h2 class="proj-name">Community resources app</h2>
                     <h2 class="proj-desc">Reducing recidivism through a community support system</h2>
-                    <p>(Company name redacted) was tasked to build a web app that would allow inmates to search and sign up for community services &mdash; providing a conduit between the inmates and services within the community such as education, food banks, social workers, etc. Also the prison staff and case workers need to have oversight of where those who are incarcerated may be at a certain time and which community offerings they are involved in. </p>
+                    <p>Between 70-80% of prisoners will be arrested again. By providing them with options for community-engagment and opportunities for education and work, their chances of staying free are increased exponentially. (Company name redacted) was tasked to build a web app that would allow inmates to search and sign up for community services &mdash; providing a conduit between the inmates and services within the community such as education, food banks, social workers, etc. Also the prison staff and case workers need to have oversight of where those who are incarcerated may be at a certain time and which community offerings they are involved in. </p>
+                </div>
+                <div class="case-study-info right-info">
                     <div class="section-header-container about">
                         <div class="section-header">
-                            <p>Overview</p>
+                            <p>Info</p>
                         </div>
                     </div>
-                    <div class="flex">
-                        <div class="col-half">
-                            <h3>Problem</h3>
-                            <p class="process-main-text">How might we support inmates through providing access to community services?</p>
+                    <div class="case-study-info-right-group">
+                        <div>
+                            <h3>Role</h3>
+                            <p class="case-info-right-text">UX/UI Designer as part of a small, cross-functional delivery team</p>
                         </div>
-                    <div class="col-half">
-                        <h3>Outcome</h3>
-                        <p class="process-main-text">We designed and rebuilt an app allowing for inmates and community services to connect.</p>
+                        <div>
+                            <h3>Timeline</h3>
+                            <p class="case-info-right-text">6 months</p>
+                        </div>
+                    </div>
+                    <div>
+                        <h3>Tools</h3>
+                        <p class="case-info-right-text">Figma</p>
                     </div>
                 </div>
             </div>
-            <div class="case-study-info right-info">
-                <div class="section-header-container about">
-                    <div class="section-header">
-                        <p>Info</p>
-                    </div>
-                </div>
-                <div class="case-study-info-right-group">
-                    <div>
-                        <h3>Role</h3>
-                        <p class="case-info-right-text">UX/UI Designer as part of a small, cross-functional delivery team</p>
-                    </div>
-                    <div>
-                        <h3>Timeline</h3>
-                        <p class="case-info-right-text">6 months</p>
-                    </div>
-                </div>
-                <div>
-                    <h3>Tools</h3>
-                    <p class="case-info-right-text">Figma</p>
+            <div class="section-header-container about">
+                <div class="section-header">
+                    <p>Overview</p>
                 </div>
             </div>
+            <div class="flex">
+                <div class="col-half">
+                    <h3>Problem</h3>
+                    <p class="process-main-text">How might we support inmates through providing access to community services?</p>
+                </div>
+            <div class="col-half">
+                <h3>Outcome</h3>
+                <p class="process-main-text">Facilitating connections for community services and the incarcerated through a mobile app by providing simple search functionality and a personalized experience.</p>
+            </div>            
         </div>
     </div>
 </div>  
@@ -70,7 +70,7 @@ permalink: /projects/partner.html
                 <h3>Research and Findings</h3> 
             </div>
         </div>
-        <p>Our small cross-functional team held <span class="bold">workshops with the client stakeholders and futuer users</span> to better understand the needs of the different users and business requirements. From these discovery sessions we found:</p>
+        <p>Our small cross-functional team held <span class="bold">workshops with the client stakeholders and futuer users</span> to better understand the needs of the different users and business requirements. From these discovery sessions we worked to understand:</p>
         <ul>
             <li>Data constraints and technical requirements</li>
             <li>Various user types and their associated roles, attributes, and needs</li>
@@ -85,7 +85,7 @@ permalink: /projects/partner.html
         </div>
         <div class="col">  
             <h3 class="project-heading">The full picture</h3>
-            <p>One of the most difficult pieces to the discovery work was understanding the complexity of system permissions that were needed. Understanding these layers of access was key to success. Here is a rough draft of a user flow to help think through one persona's access.</p>
+            <p>Understanding the complexity of system permissions to allow these community connections to happen was crucial &mdash; providing opportunities for connection while allowing monitoring from staff. Understanding these layers of access was key to success. Here is a rough draft of a user flow I created to help us think through one user persona's access.</p>
         </div>
     </div>
     <div class="flex-thirds flex">
@@ -94,7 +94,7 @@ permalink: /projects/partner.html
         </div>
         <div class="col">  
             <h3 class="project-heading">Understanding touchpoints</h3>
-            <p>An early mapping of a case manager's touchpoints with the process of an inmate and community org's connection. This mapping would <span class="bold">iterate over time in conjunction with discovery through stakeholder workshops.</span></p>
+            <p>An early mapping of a case manager's touchpoints that I created with the process of an inmate and community org's connection. This mapping <span class="bold">iterated over time in conjunction with discovery through stakeholder workshops.</span></p>
         </div>
     </div>
 </div>
@@ -106,7 +106,7 @@ permalink: /projects/partner.html
             <h3>The Work</h3> 
         </div>
     </div>
-    <h4>Features of focus for this case study</h4>
+    <p>Features of focus (narrowed down for this case study)</p>
     <ul>
         <li><span class="bold">Discoverability:</span> A simple and intuitive search experience for inmates to find community services.</li>
         <li><span class="bold">Flexibility:</span> A flexible foundation for the community organizations to display their offered services.</li>
@@ -181,7 +181,7 @@ permalink: /projects/partner.html
 
 </div>
 
-<div class="full-width light">
+<div class="full-width">
     <div class="case-study-body">
         <h2>The Outcome</h2>
         <p>By providing open access to community offerings, we were able to allow the incarcerated and formerly incarcerated the highest chances of success. </p>

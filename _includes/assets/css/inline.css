@@ -403,7 +403,7 @@ em {
 
 .project-heading {
 	color: #212325;
-	font-size: 38px;
+	font-size: 1.75rem;
 	font-family: p22-mackinac-pro,serif;
 	font-weight: 600;
 	margin-top: 34px;
@@ -447,7 +447,7 @@ em {
 }
 
 .case-study-body {
-	max-width: 900px;
+	max-width: 860px;
 	margin: auto;
 	padding: 0 20px;
 }
@@ -477,6 +477,7 @@ em {
 
 .left-info {
 	grid-column: auto/span 3;
+	margin-right: 3rem;
 }
 
 .case-info-right-text {
@@ -625,6 +626,7 @@ em {
 .mock-vid {
 	border-radius: 16px;
 	margin: 1rem auto;
+	width: 100%;
 }
 
 
@@ -632,6 +634,10 @@ em {
 
 h3 {
 	margin: 1rem 0 0 0;
+}
+.project-heading {
+	font-size: 1.5rem;
+	margin-top: 0;
 }
 
 .header-container {
@@ -643,6 +649,15 @@ h3 {
 .footer-container, 
 .container-half {
 	flex-direction: column;
+}
+
+.col-half {
+	margin: 1rem 1rem 1rem 0;
+	width: 100%;
+}
+
+.left-info {
+	margin-right: 0;
 }
 
 .half-span {
@@ -669,6 +684,7 @@ h3 {
 	grid-gap: 32px;
 	gap: 1rem;
 	margin-top: 1rem;
+	margin-bottom: 2rem;
 }
 
 .flex {

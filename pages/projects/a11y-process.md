@@ -23,6 +23,31 @@ permalink: /projects/a11y-process.html
                     <h2 class="proj-name">A11y Process</h2>
                     <h2 class="proj-desc">Taking 8 teams from 0 to 1 with accessibility.</h2>   
                     <p>The lack of process, individual ownership, and accessibility culture was causing poor quality of the experiences being delivered. These deficiencies were also proving to be expensive due to remediations.</p> 
+                </div>
+                <div class="case-study-info right-info">
+                    <div class="section-header-container about">
+                        <div class="section-header">
+                            <p>Info</p>
+                        </div>
+                    </div>
+                    <div class="case-study-info-right-group">
+                        <div>
+                            <h3>Role</h3>
+                            <p class="case-info-right-text">Accessibility Specialist</p>
+                        </div>
+                        <div>
+                            <h3>Timeline</h3>
+                            <p class="case-info-right-text">1 year</p>
+                        </div>
+                    </div>
+                    <div>
+                        <h3>Tools</h3>
+                        <p class="case-info-right-text">Research</p>
+                        <p class="case-info-right-text">Collaboration</p>
+                        <p class="case-info-right-text">Education</p>
+                    </div>
+                </div>
+                </div>
                     <div class="section-header-container about">
                         <div class="section-header">
                             <p>Overview</p>
@@ -39,32 +64,9 @@ permalink: /projects/a11y-process.html
                         </div>   
                     </div>
                 <p>Note: This project has the client's name and other identifiers removed in accordance with an NDA.</p>
-            </div>
-            <div class="case-study-info right-info">
-                <div class="section-header-container about">
-                    <div class="section-header">
-                        <p>Info</p>
-                    </div>
-                </div>
-                <div class="case-study-info-right-group">
-                    <div>
-                        <h3>Role</h3>
-                        <p class="case-info-right-text">Accessibility Specialist</p>
-                    </div>
-                    <div>
-                        <h3>Timeline</h3>
-                        <p class="case-info-right-text">1 year</p>
-                    </div>
-                </div>
-                <div>
-                    <h3>Tools</h3>
-                    <p class="case-info-right-text">Research</p>
-                    <p class="case-info-right-text">Collaboration</p>
-                    <p class="case-info-right-text">Education</p>
-                </div>
-            </div>
+            </div>            
         </div>     
-        <div class="">
+        <div class="case-study-body">
             <div class="section-header-container about">
                 <div class="section-header">
                     <h3>Priority One</h3> 
