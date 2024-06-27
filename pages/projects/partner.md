@@ -64,6 +64,7 @@ permalink: /projects/partner.html
         </div>
     </div>
 </div>  
+<div class="full-width dark">
     <div class="case-study-body">
         <div class="section-header-container about">
             <div class="section-header">
@@ -77,7 +78,7 @@ permalink: /projects/partner.html
             <li>How these user types, and their actions, connect to each other</li>
         </ul>
     </div>
-
+</div>
 <div class="full-width light">
     <div class="flex-thirds flex">
         <div class="col">
@@ -161,24 +162,23 @@ permalink: /projects/partner.html
 
     <!-- Priority Three -->
  
-<div class="case-study-body">
-    <div class="section-header-container about">
-        <div class="section-header">
-            <h3>Priority Three</h3> 
+<div class="full-width">
+    <div class="case-study-body">
+        <div class="section-header-container about">
+            <div class="section-header">
+                <h3>Priority Three</h3> 
+            </div>
         </div>
-    </div>
-    <div class="">
-        <h4><span class="section-callout">Personalization</span></h4>
-        <div>
-            <p>Personalized views for all roles was a crucial building block. Seen in this mockup an inmate or parollee user can access their saved programs, events, and connections to community resources. This allows them a holistic view of the community plan that they've built with a case worker.</p>
+        <div class="">
+            <h4><span class="section-callout">Personalization</span></h4>
+            <div>
+                <p>Personalized views for all roles was a crucial building block. Seen in this mockup an inmate or parollee user can access their saved programs, events, and connections to community resources. This allows them a holistic view of the community plan that they've built with a case worker.</p>
+            </div>
         </div>
-    </div>
-    </div>
-    <div class="full-width light">
-    <img class="img-center flex" src="/static/img/programs.png" alt="a mockup for an inmate or parollee user accessing their saved programs, events, and connections to community resources">
+        </div>
+        <img class="img-center flex" src="/static/img/programs.png" alt="a mockup for an inmate or parollee user accessing their saved programs, events, and connections to community resources">
     </div>
 </div>
-
 </div>
 
 <div class="full-width dark">
