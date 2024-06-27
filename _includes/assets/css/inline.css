@@ -22,7 +22,7 @@ body {
 	margin: 0;
   	font-family: Manrope,-apple-system,BlinkMacSystemFont,segoe ui,roboto,oxygen,ubuntu,cantarell,fira sans,droid sans,helvetica neue,sans-serif;
 	font-size: 1rem;
-	font-weight: 400;
+	font-weight: 300;
 	line-height: 1.5;
 	color: #212529;
 	text-align: left;
@@ -310,6 +310,11 @@ em {
 	padding: 48px 48px 48px 0;
 }
 
+.half-span:last-of-type {
+	margin-right: 0;
+	padding-right: 0;
+  }
+
 .img-mobile {
 	display: block;
 	margin: 2rem auto;
@@ -339,10 +344,16 @@ em {
 
 .home-title {
 	font-family: p22-mackinac-pro,serif;
-	font-size: 2.5rem;
+	font-size: 2.65rem;
 	font-weight: 500;
 	line-height: 130%;
 	margin: 0;
+	border-right: 1px solid #d6d6db;
+  	padding-right: 1rem;
+}
+
+.home-intro {
+	font-size: 1.2rem;
 }
 
 .home-title-callout {
@@ -411,6 +422,15 @@ em {
 	font-weight: 700;
 }
 
+.text-highlight {
+	font-family: serif;
+	font-style: italic;
+}
+
+.section-big {
+	font-size: 2rem;
+}
+
 .project-heading {
 	/* color: #212325; */
 	font-size: 1.75rem;
@@ -459,7 +479,7 @@ em {
 .case-study-body {
 	max-width: 860px;
 	margin: auto auto 4rem auto;
-	padding: 0 20px;
+	padding: 1.5rem 1rem;
 }
 
 .about.section-header-container .section-header {
@@ -676,7 +696,7 @@ h3 {
 }
 .project-heading {
 	font-size: 1.5rem;
-	margin-top: 0;
+	margin-top: 0.5rem;
 }
 
 .header-container {
@@ -706,6 +726,9 @@ h3 {
 
 .home-title {
 	font-size: 28px;
+	border-bottom: 1px solid #d6d6db;
+	border-right: none;
+    padding-bottom: 2rem;
 }
 
 .home-title-callout {
