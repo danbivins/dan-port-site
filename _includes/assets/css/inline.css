@@ -77,7 +77,11 @@ p,
 pre,
 code,
 li {
-	line-height: 1.5;
+	line-height: 1.6;
+}
+
+p {
+	font-weight: 300;
 }
 
 a[href],
@@ -130,19 +134,24 @@ pre {
 }
 
 blockquote {
+	/* background-image: url('/static/img/chat.png');
+	background-repeat: no-repeat;
+	background-position: 50% ; */
 	border-radius: 16px;
 	font-size: 1.25rem;
 	margin: 2rem 0;
 	padding: 2rem 3.5rem;
 	text-align: center;
+	font-style: italic;
+	border: 1px solid #eee;
 }
 
 blockquote:before {
 	content: url('/static/img/chat.png');
-	display: flex;
-	width: 3rem;
-	height: 3rem;
-	margin: 0 auto;
+	display: block;
+	width: 50%;
+	height: 50%;
+	margin: 0 auto 1rem auto;
 }
 
 /* Header Nav */
@@ -403,13 +412,13 @@ em {
 }
 
 .project-heading {
-	color: #212325;
+	/* color: #212325; */
 	font-size: 1.75rem;
 	font-family: p22-mackinac-pro,serif;
 	font-weight: 600;
 	margin-top: 34px;
 	margin-bottom: 8px;
-	line-height: 44px;
+	line-height: 38px;
 }
 
 .project-link {
@@ -455,6 +464,7 @@ em {
 
 .about.section-header-container .section-header {
 	margin-top: 0;
+	margin-bottom: 1rem;
 	padding-top: 48px;
 }
 
@@ -575,6 +585,10 @@ em {
 	width: 50%;
 }
 
+.col-half:last-of-type {
+	margin-right: 0;
+  }
+
 .flex-thirds .col:first-of-type {
 	width: 60%;
 }
@@ -600,7 +614,12 @@ em {
 	font-size: 1.875rem;	
 	font-weight: 300;
 	margin: 0.5rem 0 1rem 0;
+	line-height: 1.125;
 }
+
+.process-main-text {
+	margin-top: 0.125rem;
+  }
 
 .proj-img-callout {
 	margin: 3rem 0; 
@@ -622,6 +641,25 @@ em {
 
 .light {
 	background-color: var(--white);
+}
+
+.full-width.dark {
+	background-color: var(--dark);
+	color: white;
+	padding: 4rem 0;
+}
+
+.full-width.dark blockquote {
+	color: #212529;
+}
+
+.full-width.dark .section-header {
+	border-bottom: 1px solid white;
+}
+
+.full-width.dark p,
+.dark a {
+	color: white;
 }
 
 .mock-vid {
@@ -723,6 +761,10 @@ h3 {
 
 .study-image img {
 	width: 100%;
+}
+
+blockquote {
+	padding: 2rem 1.5rem;
 }
 
 }
