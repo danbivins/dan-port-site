@@ -107,7 +107,7 @@ permalink: /projects/a11y-process.html
             </div>
             <div class="flex-thirds flex">
                 <div class="col">
-                    <img src="/static/img/prod-1.jpg" alt="Product Leads getting excited about connecting their day to day work to accessibility" class="img-center flex">
+                    <img src="/static/img/prod-1.jpg" alt="Team A11y dashboards in Jira with labels of status, assignee, and priority">
                 </div>
                 <div class="col">
                     <p class="project-heading">Building a11y culture</p>

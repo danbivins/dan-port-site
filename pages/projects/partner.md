@@ -18,7 +18,7 @@ permalink: /projects/partner.html
                     <div class="section-header-container about">
                         <div class="section-header">
                             <p>Project</p>
-                            <p>002</p>
+                            <p>003</p>
                         </div>
                     </div>
                     <h2 class="proj-name">Community resources app</h2>
@@ -181,7 +181,7 @@ permalink: /projects/partner.html
 
 </div>
 
-<div class="full-width">
+<div class="full-width dark">
     <div class="case-study-body">
         <h2>The Outcome</h2>
         <p>By providing open access to community offerings, we were able to allow the incarcerated and formerly incarcerated the highest chances of success. </p>

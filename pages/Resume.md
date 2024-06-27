@@ -22,6 +22,7 @@ eleventyNavigation:
   <li>Redesigned medicare.gov in a small cross-role team, to be user-centric and <span class="bold">boosted enrollments by over 40%.</span></li>
   <li>Partnered with the <a href="https://design.cms.gov" target="_blank">design system team</a> to design, develop, and provide documentation for accessible components.</li>
   <li>Guided product, design, research, and engineering teams through A11y workshops and establishing guidelines and standards.</li>
+  <li>Conducted A11y testing for 508/WCAG compliance and recommended solutions that were easy to understand by both technical and non-technical audiences.</li>
 </ul>
 </div>
 <h3 class="section-header">Jenzabar, Inc.</h3>
