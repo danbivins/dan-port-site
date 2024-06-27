@@ -3,7 +3,7 @@
 	--secondary: #ffffff;
 	--white: #ffffff;
 	--dark: #212325;
-	--light: #faf6f3;
+	--light: #f6f6f3;
 	font-size: 1.2rem;
 	--maxwidth: 1240px;
 }
@@ -33,7 +33,7 @@ body {
 
 main {
 	width: 100%;
-	margin-bottom: 4rem;
+	/* margin-bottom: 4rem; */
 }
 
 /* footer */
@@ -458,7 +458,7 @@ em {
 
 .case-study-body {
 	max-width: 860px;
-	margin: auto;
+	margin: auto auto 4rem auto;
 	padding: 0 20px;
 }
 
@@ -481,7 +481,7 @@ em {
 
 .case-info {
 	display: grid;
-	margin: auto;
+	margin: auto auto 4rem auto;
 	grid-template-columns: repeat(4,1fr);
 	grid-column-gap: 30px;
 }
@@ -548,8 +548,8 @@ em {
 }
 
 .full-width {
-	background-color: var(--light);
-	margin: 2rem 0;
+	background-color: white;
+	/* margin: 2rem 0; */
 	padding: 1rem 0;
 }
 
@@ -640,7 +640,7 @@ em {
 }
 
 .light {
-	background-color: var(--white);
+	background-color: var(--light);
 }
 
 .full-width.dark {
