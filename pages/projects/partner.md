@@ -127,12 +127,12 @@ permalink: /projects/partner.html
     </div>
     
 
-    <iframe class="mock-vid" width="960" height="560"
+    <!-- <iframe class="mock-vid" width="960" height="560"
     src="https://youtube.com/embed/c73hyZ-snpc?feature=share&autoplay=1&loop=1&rel=1&end=18&mute=1&playlist=c73hyZ-snpc"
     title="Searching for community resource and filter experience"
     frameborder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    allowfullscreen></iframe>
+    allowfullscreen></iframe> -->
 
     <p>Below is a laptop size design for the resource detail view. This design illustrates our focus on providing info to users in an easily digestible layout using  <span class="bold">scannable sections, highlighting areas with icons, and clean typography</span>. Also users are able to save this resource to review later.</p>
 
