@@ -18,6 +18,7 @@ eleventyNavigation:
     <p>Learn more about how I approach <a href="/accessibility/index">this site's accessibility</a>.</p>
     <p>I design, write a little bit of front-end code, and spend time helping designers and developers create more inclusive digital products. For a decade I have worked across various industries but most currently worked with [Ad Hoc](https://adhocteam.us/) remotely as a UX Designer and Accessibility Specialist, building digital services that help the federal government better serve people.</p>
     <p>I prefer: mission-oriented organizations, inclusive spaces and teams, and copious amounts of coffee!</p>
+    <p>Feel free to reach out tto me on <a href="https://www.linkedin.com/in/danielcbivins/">LinkedIn</a>.
     <h2>Speaking</h2>
     <p>Occasionally I give talks on accessibility:</p>
     <ul>
