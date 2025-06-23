@@ -22,7 +22,7 @@ permalink: /projects/a11y-process.html
                     </div>
                     <h2 class="proj-name">A11y Process</h2>
                     <h2 class="proj-desc">Taking 8 teams from 0 to 1 with accessibility.</h2>   
-                    <p>The lack of process, individual ownership, and accessibility culture was causing poor quality of the experiences being delivered. These deficiencies were also proving to be expensive due to remediations.</p> 
+                    <p>Lack of process, ownership, and accessibility culture was causing the delivery of poor quality user experiences. By not putting accessibility earlier in the delivery cycle, costly bug fixes were common.</p> 
                 </div>
                 <div class="case-study-info right-info">
                     <div class="section-header-container about">
@@ -56,7 +56,7 @@ permalink: /projects/a11y-process.html
                     <div class="flex">
                         <div class="col-half">
                             <h3>Problem</h3>
-                            <p class="process-main-text">Build an accessibility program across 8 existing product teams. Fix low-hanging fruit first and then work towards maturity.</p>
+                            <p class="process-main-text">How to raise the knowledge and craft levels of accessibility across multiple teams so that we deliver quality design and code emdash; then work towards accessibility maturity and mastery.</p>
                         </div>
                         <div class="col-half">
                             <h3>Outcome</h3>
