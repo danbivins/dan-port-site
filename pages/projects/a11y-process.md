@@ -56,7 +56,7 @@ permalink: /projects/a11y-process.html
                     <div class="flex">
                         <div class="col-half">
                             <h3>Problem</h3>
-                            <p class="process-main-text">How to raise the knowledge and craft levels of accessibility across multiple teams so that we deliver quality design and code emdash; then work towards accessibility maturity and mastery.</p>
+                            <p class="process-main-text">How to raise the knowledge and craft levels of accessibility across multiple teams so that we deliver quality design and code &mdash; then work towards accessibility maturity and mastery.</p>
                         </div>
                         <div class="col-half">
                             <h3>Outcome</h3>
