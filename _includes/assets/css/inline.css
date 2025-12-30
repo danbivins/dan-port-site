@@ -22,7 +22,7 @@ body {
 	margin: 0;
   	font-family: Manrope,-apple-system,BlinkMacSystemFont,segoe ui,roboto,oxygen,ubuntu,cantarell,fira sans,droid sans,helvetica neue,sans-serif;
 	font-size: 1rem;
-	font-weight: 300;
+	font-weight: 400;
 	line-height: 1.5;
 	color: #212529;
 	text-align: left;
@@ -77,11 +77,7 @@ p,
 pre,
 code,
 li {
-	line-height: 1.6;
-}
-
-p {
-	font-weight: 300;
+	line-height: 1.5;
 }
 
 a[href],
@@ -343,7 +339,6 @@ em {
 }
 
 .home-title {
-	font-family: p22-mackinac-pro,serif;
 	font-size: 2.65rem;
 	font-weight: 500;
 	line-height: 130%;
@@ -423,7 +418,6 @@ em {
 }
 
 .text-highlight {
-	font-family: serif;
 	font-style: italic;
 }
 
@@ -432,9 +426,7 @@ em {
 }
 
 .project-heading {
-	/* color: #212325; */
 	font-size: 1.75rem;
-	font-family: p22-mackinac-pro,serif;
 	font-weight: 600;
 	margin-top: 34px;
 	margin-bottom: 8px;
@@ -478,13 +470,12 @@ em {
 
 .case-study-body {
 	max-width: 860px;
-	margin: auto auto 4rem auto;
-	padding: 1.5rem 1rem;
+	margin: auto auto 1rem auto;
 }
 
 .about.section-header-container .section-header {
 	margin-top: 0;
-	margin-bottom: 1rem;
+	margin-bottom: 0.5rem;
 	padding-top: 48px;
 }
 
@@ -539,8 +530,7 @@ em {
 }
 
 .case-info .proj-name {
-	font-family: Manrope,serif;
-	font-size: 40px;
+	font-size: 2.5rem;
 	font-style: 600;
 	letter-spacing: 0;
 	text-align: left;
@@ -548,7 +538,7 @@ em {
 }
 
 .case-info .proj-desc {
-	font-size: 40px;
+	font-size: 2.5rem;
 	font-weight: 300;
 	margin: 0 0 1rem 0;
 	line-height: 1.25;}
@@ -601,7 +591,7 @@ em {
 }
 
 .col-half {
-	margin: 1rem 1rem 1rem 0;
+	margin: 1rem 5rem 1rem 0;
 	width: 50%;
 }
 
@@ -631,7 +621,7 @@ em {
 }
 
 .section-callout {
-	font-size: 1.875rem;	
+	font-size: 2.125rem;	
 	font-weight: 300;
 	margin: 0.5rem 0 1rem 0;
 	line-height: 1.125;

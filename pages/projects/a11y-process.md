@@ -60,13 +60,13 @@ permalink: /projects/a11y-process.html
                         </div>
                         <div class="col-half">
                             <h3>Outcome</h3>
-                            <p class="process-main-text">All UX, Product and Engineering Leads completed <span class="bold">Accessibility training</span>. We also reduced the average time of an open accessibility bug ticket <span class="bold">by more than half</span>.</p>
+                            <p class="process-main-text">All UX, Product and Engineering Leads completed <span class="bold">Accessibility training</span>. We also reduced the average time of an open accessibility bug ticket <span class="bold">by more than 50%</span>.</p>
                         </div>   
                     </div>
                 <p><em>Note: This project has the client's name and other identifiers removed in accordance with an NDA.</em></p>
             </div>      
         <div class="case-study-body">
-            <h2>All roles within these product teams required foundational awareness training.</h2> 
+            <h2>All roles within these product teams required foundational accessibility training.</h2> 
             <p>In the large, cross-role teams that I work with it is common for teams to have a lack of foundational education. Utilizing workshops and shareable documentation we begin to build awareness and ownership. Failure in A11y education exhibits itself in these ways:</p>
                 <ul>
                     <li><span class="bold">Product</span> has little understanding of how a11y fits into delivery and how their role should be involved. </li>
