@@ -438,14 +438,14 @@ em {
 	color: var(--dark) !important;
 	display: flex;
 	font-weight: 700;
-	margin: 24px 0 60px;
-	padding: 8px 16px;
+	margin: 4px 0 0 0;
+	padding: 8px 2px;
 	align-items: center;
 }
 
 .project-paragraph {
 	color: #212325;
-	margin-bottom: 24px;
+	margin-bottom: 0.125rem;
 }
 
 .study-image {
