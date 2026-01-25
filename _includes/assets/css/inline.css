@@ -472,6 +472,7 @@ em {
 .case-study-body {
 	max-width: 860px;
 	margin: auto auto 1rem auto;
+	padding: 1rem;
 }
 
 .about.section-header-container .section-header {
@@ -532,8 +533,8 @@ em {
 
 .case-info .proj-name {
 	font-size: 2.5rem;
-	font-style: 600;
 	letter-spacing: 0;
+	line-height: 1.1;
 	text-align: left;
 	margin-top: 32px;
 }

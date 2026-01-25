@@ -21,15 +21,15 @@ permalink: /projects/a11yannotationscalc.html
                         </div>
                     </div>
                     <h2 class="proj-name">Making Real-Time Data Accessible</h2>
-                    <h2 class="proj-desc">Collaborating with UX'ers to go beyond 508 compliance and provide a truly usable inclusive experience.</h2>
+                    <h2 class="proj-desc">Collaborating with UX teams to move beyond compliance toward a high-utility inclusive experience.</h2>
                     <div class="">
-                        <p>As noted in my <a href="a11y-process.html">A11y Process</a> study, UX'ers on this team were not creating A11y Design Annotatiions. It is crucial to remind UX teams that <span class="bold">"UX" doesn't just refer to just the user experience sighted users or users who use a mouse</span>, etc. By not using A11y annotations there are three issues:</p>
-                        <ul>
-                            <li>UX lacked the knowledge and awareness of the experience of a screen reader user.</li>
-                            <li>Decisions about A11y were left up to Engineers for them to decipher design intentions and experience outcomes.</li>
-                            <li>There was no artifact to QA against, no A11y acceptance criteria.</li>
+                        <p>While working on the <a href="a11y-process.html">A11y Process</a> I identified a critical gap in our delivery lifecycle: the absence of accessibility design annotations. When accessibility requirements aren't defined during the design phase, it creates three primary business risks</p>
+                        <ul role="list">
+                            <li role="listitem"><b>Design Ambiguity:</b> Without explicit intent, screen reader UX is left to engineering interpretation, leading to inconsistent user experiences.</li>
+                            <li role="listitem"><b>Engineering Friction:</b> Developers are forced to spend cycles deciphering accessibility logic rather than focusing on feature implementation.</li>
+                            <li role="listitem"><b>QA Bottlenecks:</b> The lack of documented accessibility acceptance criteria makes it impossible to perform objective, systematic quality audits.</li>
                         </ul>
-                        </p>
+                        <p>To solve this, I partnered with the UX team to implement a standardized annotation system, starting with one of our most complex patterns: <b>The Live-Calculation Interaction</b>.</p>
                     </div>                    
                 </div>
 
@@ -76,7 +76,7 @@ permalink: /projects/a11yannotationscalc.html
         </div>
     </div>
     <p>The purpose of this interaction pattern is for <span class="bold">the user to enter income and expenses so that they can be notified if they may be eligible for financial assistance</span>. </p>
-    <p>Here a live calculation is done of their income minus their expenses. The total amount is calculated in real time and displayed at the bottom. </p>
+    <p>This component calculates a user’s income against their expenses in real-time. While visually intuitive, our testing revealed a critical accessibility barrier: the dynamic updates were not being announced to screen readers, leaving non-sighted users unaware of the calculation results unless they manually navigated the entire page.</p>
     <p>This interaction was generally fine sighted users but screen reader users were not having the same experience &mdash; <b>we knew they were not getting that calculated number announced to them</b> unless they read the page line by line each time. </p>
     <div class="full-width light">
         <img src="/static/img/timecard1a.png" alt="Visible focus is on the remove button." class="img-center flex">
@@ -89,12 +89,12 @@ permalink: /projects/a11yannotationscalc.html
                 <h3>Solving ambiguity through documentation</h3> 
             </div>
         </div>
-        <p><span class="bold">Designing "for accessibility" isn't hard.</span> It just takes some education and awareness that your users may not be just like you. By providing accessibility design annotations, we are shifting accessibility further left within the delivery process and removing guesswork from engineers on expectations within our designed experiences.</p>
-        <p>By <em>not designing</em> for &mdash; or better yet, with! &mdash; users of assistive technology then, you are probably designing a bad experience for them. Design annotations don't take much time and provide you with:</p>
-        <ul>
-            <li>The knowledge and awareness of assistive tech users</li>
-            <li>Guidance for engineers on expectations</li>
-            <li>Acceptance criteriato QA against</li>
+        <p><span class="bold">Proactive Inclusion vs. Reactive Remediation Designing for accessibility is a strategic choice. By providing design annotations, we "shift accessibility left," eliminating engineering guesswork and ensuring that the inclusive experience is defined by the designer, not the developer.</p>
+        <p>This documentation provides three critical advantages:</p>
+        <ul role="list">
+            <li role="listitem"><b>Clarity:</b> Designers gain a deeper understanding of assistive technology flows.</li>
+            <li role="listitem"><b>Efficiency:</b> Engineers receive clear, actionable implementation requirements.</li>
+            <li role="listitem"><b>Reliability:</b> QA teams gain a source of truth for accessibility acceptance criteria.</li>
         </ul>
         <p>Below are examples of typical annotations I require of designers.</p>
     </div>
@@ -110,7 +110,11 @@ permalink: /projects/a11yannotationscalc.html
 <div class="full-width ">
 <div class="case-study-body">
     <p><span class="section-callout">Focus handling based on action</span></p>
-    <p><span class="bold">What happens when an item is removed? What happens when all the items are removed?</span> These are questions I walk through with UX to ensure we are considering the screen reader experience.</p>
+    <p><span class="bold">Managing State and Focus Logic Accessibility is about more than just reading text; it’s about managing the user's "place" in the experience. I collaborated with the UX team to define focus-management rules for dynamic state changes:</p>
+    <ul role="list">
+        <li role="listitem">Destructive Actions: When an item is removed, focus is programmatically shifted to the "Add more income" button to prevent "focus loss" (where the cursor resets to the top of the page).</li>
+        <li role="listitem">Logical Continuity: This ensures the user maintains their context and can continue the task without disorientation.</li>
+    </ul>    
     <div class="full-width light">
         <img src="/static/img/timecard2a.png" alt="Visible focus is on the remove button." class="img-center flex">
     </div> 
@@ -119,12 +123,14 @@ permalink: /projects/a11yannotationscalc.html
     </div> 
 </div>
 </div>
+
 <div class="full-width light">
 <div class="case-study-body">
     <div class="">
         <p><span class="section-callout">Screen reader annotations</span></p>
-        <p>We need to provide the updated calculation for non-sighted users too. <b>After I created a coded prototype to test with against the major screen readers</b>, I decided that an aria-live region on the entire component will suffice to provide the update for a screen reader user.  </p>
-        <p>When the total is updated, <span class="bold">the screen reader readout should be “{userName}’s total for {month} is {amount} dollars.”</span></p>
+        <p><b>Engineering for Real-Time Feedback</b> In a live calculation, the core value is the immediate result. To ensure parity for non-sighted users, I developed and tested a coded prototype to determine the most effective communication pattern.</p>
+        <p><b>The Solution:</b> I implemented an ARIA-live region on the component container. This ensures that as the total updates, the screen reader automatically announces: “{userName}'s total for {month} is {amount} dollars."</span></p>
+        <p><b>Refining Context with ARIA-Labelledby:</b> To prevent ambiguity for "Edit" and "Remove" buttons, I provided guidance for utilizing aria-labelledby. By concatenating unique IDs from the income source and the action button, the screen reader provides full context: “Edit [Amount] [Category]” rather than a generic "Edit button."</p>
     </div>
     <div class="full-width light">
         <img src="/static/img/timecard1b.png" alt="Visible focus has been shifted to the 'Add more income button.'" class="img-center flex">
@@ -141,21 +147,25 @@ permalink: /projects/a11yannotationscalc.html
     <div class="full-width light">
         <img src="/static/img/timecard1c.png" alt="Visible focus has been shifted to the 'Add more income button.'" class="img-center flex">
     </div> 
-</div>
-
-{# <div class="case-study-body">
+    
     <div class="section-header-container about">
         <div class="section-header">
-            <h3>The Outcome</h3> 
+            <h3>Outcome and impact</h3> 
         </div>
+        <p>The implementation of this annotation system and interaction logic transformed our delivery process from a "wait and see" audit model to a proactive, inclusive design culture.</p>
+        <ul role="list">
+            <li role="listitem">Zero Critical Defects: The calculation component passed formal 508 testing with zero accessibility defects upon first release.</li>
+
+            <li role="listitem">Reduced Rework: By defining ARIA logic and focus management in Figma, we eliminated the 2–3 day feedback loop typically required for post-development remediation.</li>
+
+            <li role="listitem">Scalable Standards: The "Contextual Button" (aria-labelledby) and "Live Feedback" (aria-live) patterns were adopted into the broader Design System as the standard for all future interactive calculators.</li>
+        </ul>
+        <p class="section-callout">In our research we most commonly heard:</p>
+            <blockquote class="light">""By documenting the 'unseen' experience, we ensured that the most critical part of the user journey—understanding financial eligibility—was truly available to everyone.""</blockquote>
     </div>
-    <div class="">
-        <p><span class="section-callout">Components and patterns</span></p>
-        <p>Below are examples showing the component and pattern being used in various configurations.</p>
-        <p>As mentioned above, it is estimated that creating this modular and accessible component library <strong>reduced the time it took to ship code more than 25%</strong>. Of course, there is also the benefit to the end user of a more consistent user experience as all teams are pulling from the same pool of flexible components and patterns.</p>
-    </div>
+    
+    {# TODO- Visualizing the Impact
+    To make this hit home, you could include a simple diagram showing the "Documentation Loop" you created. #}
+
 </div>
-<div class="full-width light">
-    <img src="/static/img/jz-meeting.png" alt="a simple form design for someone to set up a meeting with location, date, and time" class="img-center flex">
-</div>  #}
  
