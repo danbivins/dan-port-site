@@ -20,9 +20,9 @@ permalink: /projects/a11y-process.html
                             <p>001</p>
                         </div>
                     </div>
-                    <h2 class="proj-name">A11y Process</h2>
-                    <h2 class="proj-desc">Taking 8 teams from 0 to 1 with accessibility.</h2>   
-                    <p>Lack of process, ownership, and accessibility culture was causing the delivery of poor quality user experiences. By not putting accessibility earlier in the delivery cycle, costly bug fixes were common.</p> 
+                    <h2 class="proj-name">Operationalizing Accessibility: A Shift-Left Strategy</h2>
+                    <h2 class="proj-desc">Taking 8 federal delivery teams from 0 to 1 with integrated inclusive design.</h2>   
+                    <p>A lack of standardized process and shared ownership resulted in accessibility being treated as a reactive "final-gate" audit. By failing to integrate accessibility earlier in the lifecycle, the program faced recurring remediation debt—costly, late-stage bug fixes that compromised both the user experience and delivery timelines.</p> 
                 </div>
                 <div class="case-study-info right-info">
                     <div class="section-header-container about">
@@ -56,11 +56,14 @@ permalink: /projects/a11y-process.html
                     <div class="flex">
                         <div class="col-half">
                             <h3>Problem</h3>
-                            <p class="process-main-text">How to raise the knowledge and craft levels of accessibility across multiple teams so that we deliver quality design and code &mdash; then work towards accessibility maturity and mastery.</p>
+                            <p class="process-main-text">How do we scale accessibility knowledge and craft across multiple cross-functional teams to ensure high-quality code, while moving the organization toward <b>accessibility maturity and mastery</b>?</p>
                         </div>
                         <div class="col-half">
                             <h3>Outcome</h3>
-                            <p class="process-main-text">All UX, Product and Engineering Leads completed <span class="bold">Accessibility training</span>. We also reduced the average time of an open accessibility bug ticket <span class="bold">by more than 50%</span>.</p>
+                            <ul role="list">
+                                <li role="listitem"><b>50% Reduction in Technical Debt:</b> Successfully reduced the average "time-to-fix" for accessibility defects by over 50%.</li>
+                                <li role="listitem"><b>Leadership Alignment:</b> Achieved 100% training completion across all UX, Product, and Engineering Leads.</li>
+                                <li role="listitem"><b>Zero-Defect Launches:</b> Established a "Definition of Done" that streamlined federal 508 certification.</li>
                         </div>   
                     </div>
                 <p><em>Note: This project has the client's name and other identifiers removed in accordance with an NDA.</em></p>
@@ -79,16 +82,19 @@ permalink: /projects/a11y-process.html
         <div class="case-study-body">
             <div class="section-header-container about">
                 <div class="section-header">
-                    <h3>Priority One</h3> 
+                    <h3>Pillar 1</h3> 
                 </div>
             </div>
             <div class="bsc-2-grid">
-                <p><span class="section-callout">Priorities &amp; goals for Product Managers </p>
-                            <ol>
-                <li>Plan for a11y review of designs and code during sprint and program increment planning</li>
-                <li>Ensure engineering tickets have a clear definition of done regarding a11y</li>
-                <li>Learn how to talk to stakeholders about prioritizing a11y tickets against competing priorities</li>
-            </ol>  
+                <p><span class="section-callout">Strategic Alignment for Product Management</p>
+                <div>
+                    <p><b>Goal: Integrating Accessibility into Program Increment (PI) Planning</b> Product Managers often view accessibility as a "blocker." I repositioned it as a quality metric by:</p>
+                    <ul role="list">
+                        <li role="listitem"><b>Strategic Planning:</b> Integrating accessibility reviews into sprint and PI planning to prevent launch delays.</li>
+                        <li role="listitem"><b>Data-Driven Prioritization:</b> Developing custom Jira Dashboards to provide real-time visibility into "A11y Health." This empowered PMs to have informed, data-backed conversations with stakeholders about prioritization.</li>
+                        <li role="listitem"><b>Defining "Done":</b> Crafting clear accessibility acceptance criteria for every engineering ticket to eliminate ambiguity.</li>
+                    </ul>
+                </div>  
             </div>
         </div>
     </div>
@@ -123,12 +129,18 @@ permalink: /projects/a11y-process.html
         <div class="case-study-body">
             <div class="section-header-container about">
                 <div class="section-header">
-                    <h3>Priority Two</h3> 
+                    <h3>Pillar Two</h3> 
                 </div>
             </div>
-            <h4><span class="section-callout">Provide guidance and clarity to Engineering</span></h4>
-            <p>Most engineers I've worked with want to build and test for a11y before submitting a pull request but they are unsure exactly how to test and what criteria they should test against.</p>
-            <!-- <p><span class="bold">Utilizing design systems to scale a11y</span> across multiple teams and organizations is a no-brainer. A11y knowledge, components, and patterns are now exponentially useful.</p> -->
+            <h4><span class="section-callout">Technical Empowerment for Engineering</span></h4>
+                  <div>
+                    <p><b>Goal: Reducing Friction in the Build Phase</b> Most engineers want to build accessibly but lack the specific testing protocols. I removed the "I don't know how to test" barrier by:</p>
+                    <ul role="list">
+                        <li role="listitem"><b>Integrated Testing Guidance:</b> Contributing keyboard and screen reader testing protocols directly into the Design System documentation.</li>
+                        <li role="listitem"><b>Definition of Done (DoD):</b> Authoring formal DoD documentation to catch "low-hanging fruit" errors before code reaches a Pull Request.</li>
+                        <li role="listitem"><b>Proactive Remediation:</b> Moving beyond "reporting bugs" to "providing solutions." I provided code snippets, CodePen prototypes, and technical references to give engineers a clear path to resolution.</li>
+                    </ul>
+                </div>  
         </div>
     </div>
     <div class="full-width dark">
@@ -165,16 +177,15 @@ permalink: /projects/a11y-process.html
         <div class="case-study-body">
             <div class="section-header-container about">
                 <div class="section-header">
-                    <h3>Priority Three</h3> 
+                    <h3>Pillar Three</h3> 
                 </div>
             </div>
-            <h3>Pairing up with and supporting UX</h3>
-            <p>Creating A11y Design Annotations gets UX'ers to consider early how their decisions affect assistive tech users.</p>
-            <p>These annotations benefit teams in these ways:</p>
-            <ul>
-                <li>UX can now hand off designs with concrete guidelines, <span class="bold">removing guesswork</span> about interactions from engineers
-                <li>It provides <span class="bold">testing criteria</span> for UX, Product, and QA</li>
-                <li>It is an <span class="bold">educational opportunity</span> for designers</li>
+            <h3>Design Ops & UX Support</h3>
+            <p><b>Goal: Bridging the Gap from Figma to the DOM</b> I implemented Accessibility Design Annotations to force a shift in the "mental model" of our designers, ensuring they considered the non-sighted experience from the first mockup.</p>
+            <ul role="list">
+                <li role="listitem"><b>Deterministic Handoff:</b> UX designers now provide concrete guidelines for focus order and ARIA roles, removing implementation guesswork.</li>
+                <li role="listitem"><b>Design-to-Code Connections:</b> Educating designers on semantic structures (headings, landmarks, interactive roles) to strengthen their technical craft.</li>
+                <li role="listitem"><b>Verification:</b> These annotations serve as a shared source of truth for UX, Engineering, and QA teams.</li>
             </ul>
             <p>This is a great opportunity to teach them about the use of headings, lists, links vs. buttons, etc. in code. After walking them through how to put together these annotations, I've found that designers get excited when they begin making these design-to-code connections and are usually off to running on their own in no time. </p>
             <img class="" src="/static/img/ux-ann2a.png" alt="A screenshot of a mockup with HTML annotation notes">
@@ -183,20 +194,11 @@ permalink: /projects/a11y-process.html
         </div>   
         <div class="full-width dark">
         <div class="case-study-body">
-            <h2>The Outcome </h2>
-            <p>These steps resulted in the average time of an open accessibility bug ticket has been <span class="bold">reduced by more than half</span> as seen in this dashboard below. </p>
+            <h2>The Final Result: Efficiency at Scale</h2>
+            <p>By shifting accessibility left, we didn't just fix bugs—we fixed the process. The average lifecycle of an accessibility defect was cut in half, and our client stakeholders gained the confidence that we were delivering high-quality, inclusive code on every release.</p>
+            <blockquote class="light">"When you make the 'accessible way' the 'easiest way,' the entire team wins."</blockquote>
             <img class="" src="/static/img/a11y-bugs-dashboard.jpg" alt="A dashboard showing a more than 50% decline of accessibility bugs">
             <br>
-    <!-- <div class="flex-thirds flex">
-        <div class="col">
-                <img src="/static/img/prod-1.jpg" alt="Team A11y dashboards in Jira with labels of status, assignee, and priority">
-            </div>
-            <div class="col">
-                <p class="project-heading">Awareness builds culture</p>
-                <p class="project-paragraph">Product folks began to get excited once they understood what role they played in accessibility.</p>
-            </div>
-        </div>
-    </div>             -->
             <div class="proj-img-callout">
             <p>And client stakeholders will get excited when they know you're <span class="bold">delivering quality code and experiences</span>. </p>
             <img class="" src="/static/img/a11y-cin-sh.jpg" alt="A shoutout in Slack from a Project Manager about how happy a client is on the quality of delivery">
