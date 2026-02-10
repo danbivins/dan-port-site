@@ -6,7 +6,7 @@ date: 2023-01-01T00:00:00.000Z
 permalink: /projects/a11y-process.html
 # eleventyNavigation:
 #   key: A11y Process
-#   order: 3
+#   order: 1
 ---
 
 <div class="case-study-content">
@@ -17,7 +17,7 @@ permalink: /projects/a11y-process.html
                     <div class="section-header-container about">
                         <div class="section-header">
                             <p>Project</p>
-                            <p>001</p>
+                            <p>01</p>
                         </div>
                     </div>
                     <h2 class="proj-name">Operationalizing Accessibility: A Shift-Left Strategy</h2>

@@ -6,7 +6,7 @@ date: 2023-01-01T00:00:00.000Z
 permalink: /projects/partner.html
 # eleventyNavigation:
 #   key: Community resources app
-#   order: 1
+#   order: 5
 ---
 
 
@@ -18,7 +18,7 @@ permalink: /projects/partner.html
                     <div class="section-header-container about">
                         <div class="section-header">
                             <p>Project</p>
-                            <p>003</p>
+                            <p>05</p>
                         </div>
                     </div>
                     <h2 class="proj-name">Community resources app</h2>
