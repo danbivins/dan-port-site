@@ -1,0 +1,129 @@
+---
+layout: layouts/base.njk
+title: The Native Mobile Accessibility Toolkit
+metaDescription: Scaling inclusivity by architecting the first native-mobile annotation system for T-Mobile’s enterprise design system. - Dan Bivins
+date: 2026-02-01T00:00:00.000Z
+permalink: /projects/accessibility-toolkit.html
+# eleventyNavigation:
+#   key: Annotation kit
+#   order: 3
+---
+
+<div class="case-study-content">
+    <div class="case-study-content-inner">
+        <div id="overview" class="case-study-body">
+            <div class="case-info">
+                <div class="case-study-info left-info">
+                    <div class="section-header-container about">
+                        <div class="section-header">
+                            <p>Project</p>
+                            <p>03</p>
+                        </div>
+                    </div>
+                    <h2 class="proj-name">Scaling Inclusive Design: The Native Mobile Accessibility Toolkit</h2>
+                    <h2 class="proj-desc">Scaling inclusivity by architecting the first native-mobile annotation system for T-Mobile’s enterprise design system.</h2>         
+                </div>
+
+                <div class="case-study-info right-info">
+                    <div class="section-header-container about">
+                        <div class="section-header">
+                            <p>Info</p>
+                        </div>
+                    </div>
+                    <div class="case-study-info-right-group">
+                        <div>
+                            <h3>Role</h3>
+                            <p class="case-info-right-text">Senior Accessibility Design Lead</p>
+                        </div>
+                    </div>
+                    <div>
+                        <h3>Tools</h3>
+                        <p class="case-info-right-text">Figma</p>
+                    </div>
+                </div>        
+            </div>
+        </div>
+        <div class="full-width dark">
+            <div class="case-study-body">        
+                <div class="section-header-container about">
+                    <div class="section-header">
+                        <p>Overview</p>
+                    </div>
+                </div>
+                <div class="flex">
+                    <div class="col-half">
+                        <h3>Problem</h3>
+                        <p class="process-main-text">With over 100 designers working across dozens of product squads, accessibility handoff at T-Mobile was inconsistent. Designers lacked a standardized way to communicate complex mobile-specific traits (like accessibility labels, grouping, etc.) to iOS and Android engineers. This led to "guesswork" during development, high remediation costs, and a reactive "audit-and-fix" cycle.</p>
+                    </div>
+                <div class="col-half">
+                    <h3>Outcome</h3>
+                    <p class="process-main-text">I led the creation of a Native Mobile Accessibility Annotation Kit to move accessibility from a final audit to a foundational design requirement. By standardizing the handoff logic for SwiftUI and Jetpack Compose, we provided a unified source of truth that is currently being ingested into the Core Enterprise Design System.</p>
+                </div>
+            </div>
+                                
+    </div>
+</div>  
+
+<div class="case-study-body">
+    <div class="section-header-container about">
+        <div class="section-header">
+            <h3>Research-Led Architecture</h3> 
+        </div>
+    </div>
+    <p>We didn't build in a vacuum. I led a small task force to conduct <b>user research</b> with both UX designers and engineers. We mapped out the "friction points" for both roles in the current handoff process. I identified that <b>engineers were often not given enough accessibility information</b> within the Figma mockups. </p>
+    <p>Designers did have access to a web-specific accessibility annotation kit but not for a native-specific kit. This meant that they would use the web annotation kit but they must spend extra time reconfiguring the annotation components to be applicable to native screens. <b>Designers felt they didn't have enough time</b> to do annotations due to the existing annotation's kit setup and they wished for more "built-in" documentation within the annotation kit. </p>
+    </div>
+    <div class="full-width light">
+        <div class="">
+            <img src="/static/img/anno-existing.jpg" alt="The existing web annotation kit showing alt tag, aria-label, and autocomplete annotation tags." class="img-center flex">
+        </div> 
+    </div> 
+<div class="case-study-body">
+    <div class="full-width">
+        <div class="section-header-container about">
+            <div class="section-header">
+                <h3>Robust Documentation</h3> 
+            </div>
+        </div>
+    <p><span class="bold">Instead of vague notes, the kit uses a modular system of "stickers" and "callouts" that inherently contain:</p>
+    <ul role="list">
+        <li role="listitem">Links to our existing accessibility documentation</li>
+        <li role="listitem">Preset accessibility traits and fields</li>
+        <li role="listitem">Reduced footprint while providing ample information for engineers</li>
+    </ul>
+        <div class="vid-container">
+            <iframe class="responsive-iframe"  width="860" height="615" src="https://www.youtube.com/embed/DmTCifoujVU?si=vtMvpgi_nDJz430W" title="Accessibility annotation example for native screens with flyout panel information" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </div>        
+</div>
+</div>
+
+<div class="full-width light">
+    <div class="case-study-body">
+        <div class="">
+            <p><span class="section-callout">Systems Integration & Handoff</span></p>
+            <p>The goal was adoption. To ensure the kit was used, we worked directly with the Design System team to ensure the kit was ingested into the core library. This meant that accessibility wasn't a "separate file" designers had to find—it was a native part of their existing Figma workflow.</p>
+            <p>Below are screenshots showing the new accessibility annotation pieces being used on native screen mockups at design handoff.</p>
+        </div>
+        <div class="full-width light">
+            <img src="/static/img/anno-ex-anno1.jpg" alt="the new accessibility annotation pieces being used on a 'Have Questions' info card. Shown are annotation tags for button and informative and decorative images.'" class="img-center flex">
+            <img src="/static/img/anno-ex-anno2.jpg" alt="A snackbar component with annotation tags for button, informative and snackbar information.'" class="img-center flex">
+        </div> 
+    </div>
+    
+    <div class="section-header-container about">
+            <div class="case-study-body">
+        <div class="section-header">
+            <h3>Outcome and impact</h3> 
+        </div>
+        <p>The implementation of this annotation system and interaction logic transformed our delivery process from a "wait and see" audit model to a proactive, inclusive design culture.</p>
+        <ul role="list">
+            <li role="listitem"><b>Scalability:</b> Transitioned from a "manual audit" culture to an "automated guidance" culture for 100+ designers.</li>
+
+            <li role="listitem"><b>Efficiency:</b> Reduced the communication overhead between design and engineering, ensuring that accessibility requirements are clear before the first line of code is written.</li>
+
+            <li role="listitem"><b>Enterprise Standard:</b> The kit now serves as the technical blueprint for all native mobile products within the T-Mobile ecosystem.</li>
+        </ul>
+    </div>
+
+</div>
+ 
